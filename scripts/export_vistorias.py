@@ -66,6 +66,10 @@ def format_date(value):
         return str(value)
 
 
+def image_fields(attributes):
+    return [value for name, value in attributes.items() if re.search(r"foto|imagem|image|anexo", name, re.IGNORECASE) and isinstance(value, str) and value.strip()]
+
+
 def get_features(token, layer_url, fields):
     features = []
     offset = 0
@@ -100,6 +104,14 @@ def main():
             image_response.raise_for_status()
             destination.write_bytes(image_response.content)
             images.append(f"attachments/{filename}")
+        for image_url in image_fields(attributes):
+            if image_url.startswith(("http://", "https://")):
+                image_response = requests.get(image_url, params={"token": token}, timeout=60)
+                if image_response.ok and image_response.headers.get("content-type", "").startswith("image/"):
+                    filename = f"{object_id}_campo_{len(images) + 1}{Path(image_url.split('?')[0]).suffix or '.jpg'}"
+                    (ATTACHMENTS_PATH / filename).write_bytes(image_response.content)
+                    images.append(f"attachments/{filename}")
+        images = list(dict.fromkeys(images))
         print(f"Registro {object_id}: {len(images)} anexo(s)")
 
         registros.append({
