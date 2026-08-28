@@ -90,15 +90,17 @@ def main():
     for index, feature in enumerate(features, start=1):
         attributes = feature.get("attributes", {})
         object_id = find_value(attributes, ["OBJECTID", "objectid"]) or index
-        attachment_data = request_json(f"{layer_url}/{object_id}/attachments", token)
+        attachment_data = request_json(f"{layer_url}/{object_id}/attachments", token, returnMetadata="true")
         images = []
-        for attachment in attachment_data.get("attachmentInfos", []):
+        attachments = attachment_data.get("attachmentInfos", [])
+        for attachment in attachments:
             filename = f"{object_id}_{attachment['id']}_{re.sub(r'[^a-zA-Z0-9._-]', '_', attachment.get('name', 'imagem'))}"
             destination = ATTACHMENTS_PATH / filename
             image_response = requests.get(f"{layer_url}/{object_id}/attachments/{attachment['id']}", params={"token": token}, timeout=60)
             image_response.raise_for_status()
             destination.write_bytes(image_response.content)
             images.append(f"attachments/{filename}")
+        print(f"Registro {object_id}: {len(images)} anexo(s)")
 
         registros.append({
             "id": object_id,
