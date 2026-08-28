@@ -1,11 +1,11 @@
 import { useEffect, useState } from 'react'
 import './App.css'
 
-type RecordItem = { id: number; address: string; city: string; nucleus: string; propertyType: string; inspectedAt: string; photos: string[] }
+type RecordItem = { id: number; address: string; city: string; nucleus: string; propertyType: string; inspectedAt: string; photos: string[]; details: Array<Record<string, unknown>> }
 const demoRecords: RecordItem[] = [
-  { id: 1, address: 'Rua Emiliano Di Cavalcanti, 543', city: 'Franca', nucleus: 'Franca 01', propertyType: 'Territorial', inspectedAt: '29 jun. 2026, 09:48', photos: [] },
-  { id: 2, address: 'Rua Anita Malfati, 670', city: 'Franca', nucleus: 'Franca 01', propertyType: 'Predial', inspectedAt: '29 jun. 2026, 09:27', photos: [] },
-  { id: 3, address: 'Rua José Vicente, 07', city: 'Franca', nucleus: 'Franca 02', propertyType: 'Predial', inspectedAt: '15 jul. 2026, 14:53', photos: [] },
+  { id: 1, address: 'Rua Emiliano Di Cavalcanti, 543', city: 'Franca', nucleus: 'Franca 01', propertyType: 'Territorial', inspectedAt: '29 jun. 2026, 09:48', photos: [], details: [] },
+  { id: 2, address: 'Rua Anita Malfati, 670', city: 'Franca', nucleus: 'Franca 01', propertyType: 'Predial', inspectedAt: '29 jun. 2026, 09:27', photos: [], details: [] },
+  { id: 3, address: 'Rua José Vicente, 07', city: 'Franca', nucleus: 'Franca 02', propertyType: 'Predial', inspectedAt: '15 jul. 2026, 14:53', photos: [], details: [] },
 ]
 
 function App() {
@@ -22,8 +22,8 @@ function App() {
     try {
       const response = await fetch(`${import.meta.env.BASE_URL}data/vistorias.json`)
       if (!response.ok) throw new Error('arquivo de dados ainda não publicado')
-      const data: { registros: Array<{ id: number; endereco: string; cidade: string; nucleo: string; tipo_imovel: string; data_inspecao: string; imagens: string[] }> } = await response.json()
-      const mapped = data.registros.map((item) => ({ id: item.id, address: item.endereco, city: item.cidade, nucleus: item.nucleo, propertyType: item.tipo_imovel, inspectedAt: item.data_inspecao, photos: item.imagens.map((image) => `${import.meta.env.BASE_URL}${image}`) }))
+      const data: { registros: Array<{ id: number; endereco: string; cidade: string; nucleo: string; tipo_imovel: string; data_inspecao: string; imagens: string[]; detalhes?: Array<Record<string, unknown>> }> } = await response.json()
+      const mapped = data.registros.map((item) => ({ id: item.id, address: item.endereco, city: item.cidade, nucleus: item.nucleo, propertyType: item.tipo_imovel, inspectedAt: item.data_inspecao, photos: item.imagens.map((image) => `${import.meta.env.BASE_URL}${image}`), details: item.detalhes ?? [] }))
       setRecords(mapped); setSelected(mapped[0] ?? null); setMessage(`${mapped.length} vistorias atualizadas pelo GitHub Actions`)
     } catch (error) { setMessage(`Não foi possível consultar a camada: ${error instanceof Error ? error.message : 'erro desconhecido'}`) } finally { setLoading(false) }
   }
@@ -42,7 +42,8 @@ function App() {
       } catch { return { src: '', label: 'Não foi possível incorporar esta imagem' } }
     }))
     const photoHtml = images.map((image) => image.src ? `<img src="${image.src}" alt="${image.label}">` : `<div class="missing">${image.label}</div>`).join('')
-    const report = `<html><head><meta charset="utf-8"><title>Relatório de vistoria</title><style>body{font-family:Arial;color:#192b2a;padding:32px;max-width:900px;margin:auto}h1{color:#126b61}p{line-height:1.5}.meta{border-block:1px solid #ccd8d2;padding:16px 0;margin:20px 0}.photos{display:grid;grid-template-columns:1fr 1fr;gap:12px}img{width:100%;height:220px;object-fit:cover}.missing{height:220px;background:#eef3ec;display:grid;place-items:center;color:#73847d}@media print{button{display:none}}</style></head><body><h1>Relatório de vistoria cautelar</h1><p>Gerado em ${new Date().toLocaleDateString('pt-BR')}</p><div class="meta"><strong>${selected.address}</strong><p>${selected.city} · ${selected.nucleus}<br>Tipo: ${selected.propertyType}<br>Inspeção: ${selected.inspectedAt}</p></div><h2>Imagens da vistoria</h2><div class="photos">${photoHtml || '<p>Nenhuma imagem anexada a esta vistoria.</p>'}</div></body></html>`
+    const detailHtml = selected.details.length ? selected.details.flatMap((detail) => Object.entries(detail).map(([key, value]) => `<tr><th>${key.replaceAll('_', ' ')}</th><td>${String(value)}</td></tr>`)).join('') : '<tr><td>Nenhum detalhe complementar registrado.</td></tr>'
+    const report = `<html><head><meta charset="utf-8"><title>Relatório de vistoria</title><style>body{font-family:Arial;color:#192b2a;padding:32px;max-width:900px;margin:auto}h1{color:#126b61}p{line-height:1.5}.meta{border-block:1px solid #ccd8d2;padding:16px 0;margin:20px 0}table{width:100%;border-collapse:collapse;margin:18px 0 28px}th,td{border:1px solid #ccd8d2;padding:9px;text-align:left;font-size:13px}th{width:35%;background:#eef3ec;text-transform:capitalize}.photos{display:grid;grid-template-columns:1fr 1fr;gap:12px}img{width:100%;height:220px;object-fit:cover}.missing{height:220px;background:#eef3ec;display:grid;place-items:center;color:#73847d}@media print{button{display:none}}</style></head><body><h1>Relatório de vistoria cautelar</h1><p>Gerado em ${new Date().toLocaleDateString('pt-BR')}</p><div class="meta"><strong>${selected.address}</strong><p>${selected.city} · ${selected.nucleus}<br>Tipo: ${selected.propertyType}<br>Inspeção: ${selected.inspectedAt}</p></div><h2>Detalhamento da vistoria</h2><table>${detailHtml}</table><h2>Imagens da vistoria</h2><div class="photos">${photoHtml || '<p>Nenhuma imagem anexada a esta vistoria.</p>'}</div></body></html>`
     const link = document.createElement('a'); link.href = URL.createObjectURL(new Blob([report], { type: 'text/html' })); link.download = `relatorio-${selected.id}.html`; link.click(); URL.revokeObjectURL(link.href)
   }
 

@@ -82,9 +82,21 @@ def get_features(token, layer_url, fields):
         offset += len(page)
 
 
+def get_related_features(token, table_url, parent_global_id):
+    data = request_json(
+        table_url + "/query",
+        token,
+        where=f"parentglobalid = '{parent_global_id}'",
+        outFields="*",
+        returnGeometry="false",
+    )
+    return data.get("features", [])
+
+
 def main():
     token = get_token()
     layer_url = f"{SERVICE_URL}/{LAYER_INDEX}"
+    related_url = f"{SERVICE_URL}/1"
     layer_info = request_json(layer_url, token)
     fields = [field["name"] for field in layer_info.get("fields", [])]
     features = get_features(token, layer_url, fields or ["*"])
@@ -111,6 +123,26 @@ def main():
                     filename = f"{object_id}_campo_{len(images) + 1}{Path(image_url.split('?')[0]).suffix or '.jpg'}"
                     (ATTACHMENTS_PATH / filename).write_bytes(image_response.content)
                     images.append(f"attachments/{filename}")
+        related_details = []
+        parent_global_id = find_value(attributes, ["globalid"])
+        if parent_global_id:
+            for related_feature in get_related_features(token, related_url, parent_global_id):
+                related_attributes = related_feature.get("attributes", {})
+                related_details.append({
+                    key: value for key, value in related_attributes.items()
+                    if key.lower() not in {"objectid", "globalid", "parentglobalid", "creationdate", "creator", "editdate", "editor"}
+                    and value not in (None, "")
+                })
+                related_object_id = find_value(related_attributes, ["OBJECTID", "objectid"])
+                if related_object_id:
+                    related_attachments = request_json(f"{related_url}/{related_object_id}/attachments", token, returnMetadata="true")
+                    for attachment in related_attachments.get("attachmentInfos", []):
+                        filename = f"{object_id}_{related_object_id}_{attachment['id']}_{re.sub(r'[^a-zA-Z0-9._-]', '_', attachment.get('name', 'imagem'))}"
+                        destination = ATTACHMENTS_PATH / filename
+                        image_response = requests.get(f"{related_url}/{related_object_id}/attachments/{attachment['id']}", params={"token": token}, timeout=60)
+                        image_response.raise_for_status()
+                        destination.write_bytes(image_response.content)
+                        images.append(f"attachments/{filename}")
         images = list(dict.fromkeys(images))
         print(f"Registro {object_id}: {len(images)} anexo(s)")
 
@@ -122,6 +154,7 @@ def main():
             "tipo_imovel": find_value(attributes, ["tipo_imovel", "Tipo_de_imovel", "tipo de imóvel"]) or "Imóvel",
             "data_inspecao": format_date(find_value(attributes, ["data_inspecao", "Data_da_inspecao", "data da inspeção"])),
             "imagens": images,
+            "detalhes": related_details,
         })
 
     DATA_PATH.parent.mkdir(parents=True, exist_ok=True)
