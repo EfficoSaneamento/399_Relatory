@@ -2,6 +2,11 @@ import { useEffect, useState } from 'react'
 import './App.css'
 
 type RecordItem = { id: number; address: string; city: string; nucleus: string; propertyType: string; inspectedAt: string; photos: string[]; details: Array<Record<string, unknown>> }
+function formatAddress(address: string, number: unknown) {
+  const value = String(number ?? '').trim()
+  if (!value || address.toLowerCase().endsWith(value.toLowerCase())) return address
+  return `${address}, ${value}`
+}
 const demoRecords: RecordItem[] = [
   { id: 1, address: 'Rua Emiliano Di Cavalcanti, 543', city: 'Franca', nucleus: 'Franca 01', propertyType: 'Territorial', inspectedAt: '29 jun. 2026, 09:48', photos: [], details: [] },
   { id: 2, address: 'Rua Anita Malfati, 670', city: 'Franca', nucleus: 'Franca 01', propertyType: 'Predial', inspectedAt: '29 jun. 2026, 09:27', photos: [], details: [] },
@@ -22,8 +27,8 @@ function App() {
     try {
       const response = await fetch(`${import.meta.env.BASE_URL}data/vistorias.json`)
       if (!response.ok) throw new Error('arquivo de dados ainda não publicado')
-      const data: { registros: Array<{ id: number; endereco: string; cidade: string; nucleo: string; tipo_imovel: string; data_inspecao: string; imagens: string[]; detalhes?: Array<Record<string, unknown>> }> } = await response.json()
-      const mapped = data.registros.map((item) => ({ id: item.id, address: item.endereco, city: item.cidade, nucleus: item.nucleo, propertyType: item.tipo_imovel, inspectedAt: item.data_inspecao, photos: item.imagens.map((image) => `${import.meta.env.BASE_URL}${image}`), details: item.detalhes ?? [] }))
+      const data: { registros: Array<{ id: number; endereco: string; numero_imovel?: string; cidade: string; nucleo: string; tipo_imovel: string; data_inspecao: string; imagens: string[]; detalhes?: Array<Record<string, unknown>> }> } = await response.json()
+      const mapped = data.registros.map((item) => ({ id: item.id, address: formatAddress(item.endereco, item.numero_imovel), city: item.cidade, nucleus: item.nucleo, propertyType: item.tipo_imovel, inspectedAt: item.data_inspecao, photos: item.imagens.map((image) => `${import.meta.env.BASE_URL}${image}`), details: item.detalhes ?? [] }))
       setRecords(mapped); setSelected(mapped[0] ?? null); setMessage(`${mapped.length} vistorias atualizadas pelo GitHub Actions`)
     } catch (error) { setMessage(`Não foi possível consultar a camada: ${error instanceof Error ? error.message : 'erro desconhecido'}`) } finally { setLoading(false) }
   }

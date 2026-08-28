@@ -149,6 +149,7 @@ def main():
         registros.append({
             "id": object_id,
             "endereco": find_value(attributes, ["endereco", "Endereco", "address"]) or "Endereço não informado",
+            "numero_imovel": find_value(attributes, ["numero_imovel", "Número do imóvel", "numero", "number"]) or "",
             "cidade": find_value(attributes, ["cidade", "Cidade", "city"]) or "Cidade não informada",
             "nucleo": find_value(attributes, ["nucleo", "Núcleo", "nucleo_nome"]) or "Núcleo não informado",
             "tipo_imovel": find_value(attributes, ["tipo_imovel", "Tipo_de_imovel", "tipo de imóvel"]) or "Imóvel",
