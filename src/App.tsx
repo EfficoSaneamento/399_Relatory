@@ -3,9 +3,9 @@ import './App.css'
 
 type RecordItem = { id: number; address: string; city: string; nucleus: string; propertyType: string; inspectedAt: string; photos: string[] }
 const demoRecords: RecordItem[] = [
-  { id: 1, address: 'Rua Emiliano Di Cavalcanti, 543', city: 'Franca', nucleus: 'Franca 01', propertyType: 'Territorial', inspectedAt: '29 jun. 2026, 09:48', photos: ['fachada', 'passeio', 'situação'] },
-  { id: 2, address: 'Rua Anita Malfati, 670', city: 'Franca', nucleus: 'Franca 01', propertyType: 'Predial', inspectedAt: '29 jun. 2026, 09:27', photos: ['fachada', 'lateral'] },
-  { id: 3, address: 'Rua José Vicente, 07', city: 'Franca', nucleus: 'Franca 02', propertyType: 'Predial', inspectedAt: '15 jul. 2026, 14:53', photos: ['fachada', 'passeio', 'fundos', 'documento'] },
+  { id: 1, address: 'Rua Emiliano Di Cavalcanti, 543', city: 'Franca', nucleus: 'Franca 01', propertyType: 'Territorial', inspectedAt: '29 jun. 2026, 09:48', photos: [] },
+  { id: 2, address: 'Rua Anita Malfati, 670', city: 'Franca', nucleus: 'Franca 01', propertyType: 'Predial', inspectedAt: '29 jun. 2026, 09:27', photos: [] },
+  { id: 3, address: 'Rua José Vicente, 07', city: 'Franca', nucleus: 'Franca 02', propertyType: 'Predial', inspectedAt: '15 jul. 2026, 14:53', photos: [] },
 ]
 
 function App() {
@@ -30,9 +30,19 @@ function App() {
 
   useEffect(() => { void loadRecords() }, [])
 
-  function downloadReport() {
-    const report = `<html><head><title>Relatório de vistorias</title><style>body{font-family:Arial;color:#192b2a;padding:32px}h1{color:#126b61}li{margin:12px 0}</style></head><body><h1>Relatório de vistorias cautelares</h1><p>Gerado em ${new Date().toLocaleDateString('pt-BR')}</p><p>${filtered.length} registro(s) encontrado(s).</p><ul>${filtered.map((item) => `<li><strong>${item.address}</strong> | ${item.city} | ${item.nucleus} | ${item.photos.length} imagens</li>`).join('')}</ul></body></html>`
-    const link = document.createElement('a'); link.href = URL.createObjectURL(new Blob([report], { type: 'text/html' })); link.download = 'relatorio-vistorias.html'; link.click(); URL.revokeObjectURL(link.href)
+  async function downloadReport() {
+    if (!selected) { setMessage('Selecione uma vistoria para gerar o relatório.'); return }
+    const images = await Promise.all(selected.photos.map(async (photo) => {
+      if (!photo.startsWith('http')) return { src: '', label: photo }
+      try {
+        const response = await fetch(photo)
+        const blob = await response.blob()
+        return { src: await new Promise<string>((resolve) => { const reader = new FileReader(); reader.onload = () => resolve(String(reader.result)); reader.readAsDataURL(blob) }), label: 'Imagem da vistoria' }
+      } catch { return { src: photo, label: 'Imagem da vistoria' } }
+    }))
+    const photoHtml = images.map((image) => image.src ? `<img src="${image.src}" alt="${image.label}">` : `<div class="missing">${image.label}</div>`).join('')
+    const report = `<html><head><meta charset="utf-8"><title>Relatório de vistoria</title><style>body{font-family:Arial;color:#192b2a;padding:32px;max-width:900px;margin:auto}h1{color:#126b61}p{line-height:1.5}.meta{border-block:1px solid #ccd8d2;padding:16px 0;margin:20px 0}.photos{display:grid;grid-template-columns:1fr 1fr;gap:12px}img{width:100%;height:220px;object-fit:cover}.missing{height:220px;background:#eef3ec;display:grid;place-items:center;color:#73847d}@media print{button{display:none}}</style></head><body><h1>Relatório de vistoria cautelar</h1><p>Gerado em ${new Date().toLocaleDateString('pt-BR')}</p><div class="meta"><strong>${selected.address}</strong><p>${selected.city} · ${selected.nucleus}<br>Tipo: ${selected.propertyType}<br>Inspeção: ${selected.inspectedAt}</p></div><h2>Imagens da vistoria</h2><div class="photos">${photoHtml || '<p>Nenhuma imagem anexada a esta vistoria.</p>'}</div></body></html>`
+    const link = document.createElement('a'); link.href = URL.createObjectURL(new Blob([report], { type: 'text/html' })); link.download = `relatorio-${selected.id}.html`; link.click(); URL.revokeObjectURL(link.href)
   }
 
   return (
