@@ -1,0 +1,3425 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.39599778333333,
+          -20.496121650000003
+        ]
+      },
+      "properties": {
+        "id": 1,
+        "endereco": "Rua Cândido Portinari 309",
+        "numero_imovel": "600",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.39595559999999,
+          -20.496231983333335
+        ]
+      },
+      "properties": {
+        "id": 2,
+        "endereco": "Rua Heitor Vila Lobos 550",
+        "numero_imovel": "550",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.39545761666667,
+          -20.49622103333333
+        ]
+      },
+      "properties": {
+        "id": 3,
+        "endereco": "Rua Candido Portinari 300",
+        "numero_imovel": "300",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.39494553333334,
+          -20.49611871666667
+        ]
+      },
+      "properties": {
+        "id": 4,
+        "endereco": "Rua Cândido Portinari 438",
+        "numero_imovel": "350",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.394636616666666,
+          -20.49618813333333
+        ]
+      },
+      "properties": {
+        "id": 5,
+        "endereco": "Rua Cândido Portinari 358",
+        "numero_imovel": "370",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.394648833333335,
+          -20.496169233333333
+        ]
+      },
+      "properties": {
+        "id": 6,
+        "endereco": "Rua Cândido Portinari 358",
+        "numero_imovel": "471",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.394250283333335,
+          -20.496120366666666
+        ]
+      },
+      "properties": {
+        "id": 7,
+        "endereco": "Rua Candido Portinari 370",
+        "numero_imovel": "391",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.393374200000004,
+          -20.496051883333333
+        ]
+      },
+      "properties": {
+        "id": 8,
+        "endereco": "Rua Cândido Portinari 585",
+        "numero_imovel": "501",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.39329523333334,
+          -20.49608011666667
+        ]
+      },
+      "properties": {
+        "id": 9,
+        "endereco": "Rua Cândido Portinari 638",
+        "numero_imovel": "555",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.39213013333333,
+          -20.496044816666664
+        ]
+      },
+      "properties": {
+        "id": 10,
+        "endereco": "Rua Anita Malfati 431",
+        "numero_imovel": "431",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.39207786666666,
+          -20.495588750000003
+        ]
+      },
+      "properties": {
+        "id": 11,
+        "endereco": "Rua Anita Malfati 600",
+        "numero_imovel": "600",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.39208843399996,
+          -20.494880121999927
+        ]
+      },
+      "properties": {
+        "id": 12,
+        "endereco": "Rua Anita Malfati 670",
+        "numero_imovel": "670",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.39208993099993,
+          -20.494634160999965
+        ]
+      },
+      "properties": {
+        "id": 13,
+        "endereco": "Rua Anita Malfati 700",
+        "numero_imovel": "700",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.39216176599996,
+          -20.494055470999967
+        ]
+      },
+      "properties": {
+        "id": 14,
+        "endereco": "Rua Emiliano Di Cavalcanti 543",
+        "numero_imovel": "S/N",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.39088980799994,
+          -20.49413565599997
+        ]
+      },
+      "properties": {
+        "id": 15,
+        "endereco": "Rua Emiliano Di Cavalcanti",
+        "numero_imovel": "750",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.389838250000004,
+          -20.494299166666668
+        ]
+      },
+      "properties": {
+        "id": 16,
+        "endereco": "Rua Tarsila do Amaral 1210",
+        "numero_imovel": "1200",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.39041941666666,
+          -20.49473355
+        ]
+      },
+      "properties": {
+        "id": 17,
+        "endereco": "Rua Tarsila do Amaral 1111",
+        "numero_imovel": "1100",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.390620999999996,
+          -20.494930716666666
+        ]
+      },
+      "properties": {
+        "id": 18,
+        "endereco": "Rua Tarsila do Amaral 1090",
+        "numero_imovel": "1100",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.39086378333333,
+          -20.4955237
+        ]
+      },
+      "properties": {
+        "id": 19,
+        "endereco": "Rua Pedro Americo De Figueiredo 3131",
+        "numero_imovel": "S/N",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.39039531666667,
+          -20.495975183333332
+        ]
+      },
+      "properties": {
+        "id": 20,
+        "endereco": "Rua Pedro Americo De Figueiredo 3047",
+        "numero_imovel": "3047",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.3899989,
+          -20.49629368333333
+        ]
+      },
+      "properties": {
+        "id": 21,
+        "endereco": "Rua Pedro Americo De Figueiredo 3037",
+        "numero_imovel": "S/N",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.38832089999999,
+          -20.495518
+        ]
+      },
+      "properties": {
+        "id": 22,
+        "endereco": "Rua Manoel da Costa Ataíde 1376",
+        "numero_imovel": "S/N",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.38854736666667,
+          -20.495742833333335
+        ]
+      },
+      "properties": {
+        "id": 23,
+        "endereco": "Rua Manoel Da Costa Ataide 1205",
+        "numero_imovel": "1200",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.388641449999994,
+          -20.4957816
+        ]
+      },
+      "properties": {
+        "id": 24,
+        "endereco": "Rua Manoel da Costa Ataíde 1283",
+        "numero_imovel": "1170",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.38893070000001,
+          -20.4959785
+        ]
+      },
+      "properties": {
+        "id": 25,
+        "endereco": "Rua Manoel da Costa Ataíde 1158",
+        "numero_imovel": "1150",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.38905263333333,
+          -20.496152600000002
+        ]
+      },
+      "properties": {
+        "id": 26,
+        "endereco": "Rua Manoel Da Costa Ataide 1150",
+        "numero_imovel": "S/N",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.38963735000001,
+          -20.496649866666665
+        ]
+      },
+      "properties": {
+        "id": 27,
+        "endereco": "Rua Manoel Da Costa Ataide 1050",
+        "numero_imovel": "1050",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.39600838333334,
+          -20.496100066666667
+        ]
+      },
+      "properties": {
+        "id": 28,
+        "endereco": "Avenida Heitor Villa Lobos 700",
+        "numero_imovel": "600",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.394786483333334,
+          -20.496107766666672
+        ]
+      },
+      "properties": {
+        "id": 29,
+        "endereco": "Rua Cândido Portinari 456",
+        "numero_imovel": "455",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.3947399,
+          -20.496087233333334
+        ]
+      },
+      "properties": {
+        "id": 30,
+        "endereco": "Rua Cândido Portinari 441",
+        "numero_imovel": "451",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.39389978333334,
+          -20.49614475
+        ]
+      },
+      "properties": {
+        "id": 31,
+        "endereco": "Rua Cândido Portinari 440",
+        "numero_imovel": "500",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.393246749999996,
+          -20.49609943333333
+        ]
+      },
+      "properties": {
+        "id": 32,
+        "endereco": "Rua Candido Portinari 770",
+        "numero_imovel": "770",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.39283965,
+          -20.496103983333334
+        ]
+      },
+      "properties": {
+        "id": 33,
+        "endereco": "Rua Cândido Portinari 530",
+        "numero_imovel": "870",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.39220539799993,
+          -20.495298412999944
+        ]
+      },
+      "properties": {
+        "id": 34,
+        "endereco": "Rua Anita Malfati 671",
+        "numero_imovel": "Sem numero",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.39222388199994,
+          -20.494900195999946
+        ]
+      },
+      "properties": {
+        "id": 35,
+        "endereco": "Rua Anita Malfati 723",
+        "numero_imovel": "641",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.39223547599994,
+          -20.494517986999938
+        ]
+      },
+      "properties": {
+        "id": 36,
+        "endereco": "Rua Anita Malfati 774",
+        "numero_imovel": "Sem numero",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.39210878599994,
+          -20.494347129999937
+        ]
+      },
+      "properties": {
+        "id": 37,
+        "endereco": "Rua Anita Malfati 760",
+        "numero_imovel": "760",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.391073233999975,
+          -20.494139425999947
+        ]
+      },
+      "properties": {
+        "id": 38,
+        "endereco": "Rua Emiliano DI Cavalcanti 506",
+        "numero_imovel": "750",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.39012911666667,
+          -20.49444586666667
+        ]
+      },
+      "properties": {
+        "id": 39,
+        "endereco": "Rua Tarsila Do Amaral 1151",
+        "numero_imovel": "1151",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.39016161666667,
+          -20.49455491666667
+        ]
+      },
+      "properties": {
+        "id": 40,
+        "endereco": "Rua Tarsila do Amaral 1174",
+        "numero_imovel": "1150",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.39068023333333,
+          -20.4949339
+        ]
+      },
+      "properties": {
+        "id": 41,
+        "endereco": "Rua Tarsila do Amaral 1071",
+        "numero_imovel": "1101",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.391066249999994,
+          -20.495240183333333
+        ]
+      },
+      "properties": {
+        "id": 42,
+        "endereco": "Rua Tarsila Do Amaral 1111",
+        "numero_imovel": "1111",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.39058228333333,
+          -20.49567526666667
+        ]
+      },
+      "properties": {
+        "id": 43,
+        "endereco": "Rua Pedro Américo Figueiredo 330",
+        "numero_imovel": "3087",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.39207684899998,
+          -20.49521778899998
+        ]
+      },
+      "properties": {
+        "id": 44,
+        "endereco": "Rua Anita Malfati 620",
+        "numero_imovel": "640",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.38820389999999,
+          -20.49536821666667
+        ]
+      },
+      "properties": {
+        "id": 45,
+        "endereco": "Rua Manoel da Costa Ataíde 1324",
+        "numero_imovel": "1250",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.38800486666667,
+          -20.495271416666665
+        ]
+      },
+      "properties": {
+        "id": 46,
+        "endereco": "Rua Manoel Da Costa Ataide 1260",
+        "numero_imovel": "1260",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.38779005,
+          -20.495094516666665
+        ]
+      },
+      "properties": {
+        "id": 47,
+        "endereco": "Rua Manoel Da Costa Ataide 1300",
+        "numero_imovel": "1300",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.38768301666667,
+          -20.495004100000003
+        ]
+      },
+      "properties": {
+        "id": 48,
+        "endereco": "Rua Manoel Da Costa Ataide 1301",
+        "numero_imovel": "S/N",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.387443366666666,
+          -20.49481755
+        ]
+      },
+      "properties": {
+        "id": 49,
+        "endereco": "Rua Manoel da Costa Ataíde 1500",
+        "numero_imovel": "1330",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.38728491666667,
+          -20.494644366666666
+        ]
+      },
+      "properties": {
+        "id": 50,
+        "endereco": "Rua Manoel da Costa Ataíde 1679",
+        "numero_imovel": "1350",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.38711078333334,
+          -20.494538666666664
+        ]
+      },
+      "properties": {
+        "id": 51,
+        "endereco": "Rua Manoel Da Costa Ataide 1400",
+        "numero_imovel": "1400",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.38691359999999,
+          -20.49437968333333
+        ]
+      },
+      "properties": {
+        "id": 52,
+        "endereco": "Rua Manoel Da Costa Ataide 1365",
+        "numero_imovel": "1430",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.38675005,
+          -20.494242483333334
+        ]
+      },
+      "properties": {
+        "id": 53,
+        "endereco": "Rua Manoel Da Costa Ataide 1450",
+        "numero_imovel": "1450",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.38662418333333,
+          -20.49414715
+        ]
+      },
+      "properties": {
+        "id": 54,
+        "endereco": "Rua Manoel Da Costa Ataide 1470",
+        "numero_imovel": "1470",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.38655193333334,
+          -20.494088633333334
+        ]
+      },
+      "properties": {
+        "id": 55,
+        "endereco": "Rua Manoel Da Costa Ataide 1452",
+        "numero_imovel": "1452",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.39058228333333,
+          -20.49567526666667
+        ]
+      },
+      "properties": {
+        "id": 56,
+        "endereco": "Rua Pedro Américo Figueiredo 330",
+        "numero_imovel": "3087",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.39012553333334,
+          -20.496261933333336
+        ]
+      },
+      "properties": {
+        "id": 57,
+        "endereco": "Rua Pedro Américo Figueiredo 281",
+        "numero_imovel": "3037",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.38988200000001,
+          -20.496477066666667
+        ]
+      },
+      "properties": {
+        "id": 58,
+        "endereco": "Rua Pedro Américo Figueiredo 239",
+        "numero_imovel": "3001",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.38838818333333,
+          -20.49559556666667
+        ]
+      },
+      "properties": {
+        "id": 59,
+        "endereco": "Rua Manoel da Costa Ataíde 1240",
+        "numero_imovel": "S/N",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.38858851666667,
+          -20.495721416666665
+        ]
+      },
+      "properties": {
+        "id": 60,
+        "endereco": "Rua Manoel da Costa Ataíde 1301",
+        "numero_imovel": "1205",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.388661783333326,
+          -20.49577103333333
+        ]
+      },
+      "properties": {
+        "id": 61,
+        "endereco": "Rua Manoel da Costa Ataíde 1217",
+        "numero_imovel": "1155",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.38923466666667,
+          -20.4962466
+        ]
+      },
+      "properties": {
+        "id": 62,
+        "endereco": "Rua Manoel da Costa Ataíde 1087",
+        "numero_imovel": "1135",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.388164149999994,
+          -20.495400033333333
+        ]
+      },
+      "properties": {
+        "id": 63,
+        "endereco": "Rua Manoel da Costa Ataíde 1419",
+        "numero_imovel": "1251",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.38799673333333,
+          -20.495221883333333
+        ]
+      },
+      "properties": {
+        "id": 64,
+        "endereco": "Rua Manoel da Costa Ataíde 1368",
+        "numero_imovel": "1201",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.38773401666667,
+          -20.495037383333333
+        ]
+      },
+      "properties": {
+        "id": 65,
+        "endereco": "Rua Manoel da Costa Ataíde 1545",
+        "numero_imovel": "1301",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.38752106666667,
+          -20.494828916666666
+        ]
+      },
+      "properties": {
+        "id": 66,
+        "endereco": "Rua Manoel da Costa Ataíde 1476",
+        "numero_imovel": "1351",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.38740541666666,
+          -20.494699216666667
+        ]
+      },
+      "properties": {
+        "id": 67,
+        "endereco": "Rua Manoel da Costa Ataíde 1506",
+        "numero_imovel": "1353",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.387106816666666,
+          -20.494494983333333
+        ]
+      },
+      "properties": {
+        "id": 68,
+        "endereco": "Rua Manoel da Costa Ataíde 1731",
+        "numero_imovel": "1381",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.38689420000001,
+          -20.494339583333332
+        ]
+      },
+      "properties": {
+        "id": 69,
+        "endereco": "Rua Manoel da Costa Ataíde 1790",
+        "numero_imovel": "1365",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.38675535000001,
+          -20.49417905
+        ]
+      },
+      "properties": {
+        "id": 70,
+        "endereco": "Rua Manoel da Costa Ataíde 1652",
+        "numero_imovel": "1395",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.38653491666667,
+          -20.494075300000002
+        ]
+      },
+      "properties": {
+        "id": 71,
+        "endereco": "Rua Manoel Da Costa Ataide 1452",
+        "numero_imovel": "1455",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.38642023333333,
+          -20.493993733333333
+        ]
+      },
+      "properties": {
+        "id": 72,
+        "endereco": "Rua Manoel Da Costa Ataide 1454",
+        "numero_imovel": "1454",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.3864699,
+          -20.49403308333333
+        ]
+      },
+      "properties": {
+        "id": 73,
+        "endereco": "Rua Manoel Da Costa Ataide 1454",
+        "numero_imovel": "1456",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.39038208333333,
+          -20.499439116666668
+        ]
+      },
+      "properties": {
+        "id": 74,
+        "endereco": "Rua Lasar Segall 140",
+        "numero_imovel": "850",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.389953166666665,
+          -20.499418933333335
+        ]
+      },
+      "properties": {
+        "id": 75,
+        "endereco": "Rua Frei Ricardo Do Pillar 801",
+        "numero_imovel": "S/N",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.38958208333334,
+          -20.49911961666667
+        ]
+      },
+      "properties": {
+        "id": 76,
+        "endereco": "Rua Frei Ricardo Do Pillar 880",
+        "numero_imovel": "880",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.38937591666666,
+          -20.4989223
+        ]
+      },
+      "properties": {
+        "id": 77,
+        "endereco": "Rua Frei Ricardo Do Pillar 900",
+        "numero_imovel": "900",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.38884538333333,
+          -20.49845121666667
+        ]
+      },
+      "properties": {
+        "id": 78,
+        "endereco": "Rua Frei Ricardo do Pilar 994",
+        "numero_imovel": "950",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.388372733333334,
+          -20.498099016666668
+        ]
+      },
+      "properties": {
+        "id": 79,
+        "endereco": "Rua Frei Ricardo Do Pillar 1000",
+        "numero_imovel": "1034",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.38996576666667,
+          -20.49918095
+        ]
+      },
+      "properties": {
+        "id": 80,
+        "endereco": "Rua Frei Ricardo Do Pillar 851",
+        "numero_imovel": "801",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.38972546666667,
+          -20.4990995
+        ]
+      },
+      "properties": {
+        "id": 81,
+        "endereco": "Rua Frei Ricardo Do Pillar 851",
+        "numero_imovel": "851",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.38936053333334,
+          -20.498821383333333
+        ]
+      },
+      "properties": {
+        "id": 82,
+        "endereco": "Rua Frei Ricardo Do Pillar 901",
+        "numero_imovel": "901",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.388896366666664,
+          -20.498495600000002
+        ]
+      },
+      "properties": {
+        "id": 83,
+        "endereco": "Rua Frei Ricardo do Pilar 988",
+        "numero_imovel": "951",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.38863701666667,
+          -20.4983447
+        ]
+      },
+      "properties": {
+        "id": 84,
+        "endereco": "Rua Frei Ricardo Do Pillar 1001",
+        "numero_imovel": "1001",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.38846545,
+          -20.49821528333333
+        ]
+      },
+      "properties": {
+        "id": 85,
+        "endereco": "Rua Frei Ricardo Do Pillar 1000",
+        "numero_imovel": "1000",
+        "cidade": "Franca",
+        "nucleo": "fra01",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29431188333333,
+          -20.166924950000002
+        ]
+      },
+      "properties": {
+        "id": 86,
+        "endereco": "Rod Antonio Giolo",
+        "numero_imovel": "44",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.2945626,
+          -20.167340433333333
+        ]
+      },
+      "properties": {
+        "id": 87,
+        "endereco": "Rod Antonio Giolo",
+        "numero_imovel": "34A",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.294551166666665,
+          -20.167429666666667
+        ]
+      },
+      "properties": {
+        "id": 88,
+        "endereco": "Rod Antonio Giolo",
+        "numero_imovel": "34B",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29453448333334,
+          -20.167447816666666
+        ]
+      },
+      "properties": {
+        "id": 89,
+        "endereco": "Rod Antonio Giolo",
+        "numero_imovel": "34 C",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29453456666667,
+          -20.167475916666668
+        ]
+      },
+      "properties": {
+        "id": 90,
+        "endereco": "Rod Antonio Giolo",
+        "numero_imovel": "34 D",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.295212049999996,
+          -20.16713006666667
+        ]
+      },
+      "properties": {
+        "id": 91,
+        "endereco": "Rod Antonio Geodo",
+        "numero_imovel": "42",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29532553333333,
+          -20.167132733333336
+        ]
+      },
+      "properties": {
+        "id": 92,
+        "endereco": "Rod Antonio Giolo",
+        "numero_imovel": "S/N",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.295553033333334,
+          -20.1672719
+        ]
+      },
+      "properties": {
+        "id": 93,
+        "endereco": "Rod Antonio Giolo",
+        "numero_imovel": "244",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.294484233333336,
+          -20.166946716666665
+        ]
+      },
+      "properties": {
+        "id": 94,
+        "endereco": "Rod Antonio Giolo",
+        "numero_imovel": "10",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.294604783333334,
+          -20.16697
+        ]
+      },
+      "properties": {
+        "id": 95,
+        "endereco": "Rod Antonio Giolo",
+        "numero_imovel": "22",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29476528333333,
+          -20.167012983333333
+        ]
+      },
+      "properties": {
+        "id": 96,
+        "endereco": "Rod Antonio Giolo",
+        "numero_imovel": "30",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.295081333333336,
+          -20.1671079
+        ]
+      },
+      "properties": {
+        "id": 97,
+        "endereco": "Rodovia Antonio Giolo 46",
+        "numero_imovel": "46",
+        "cidade": "Pedregulho",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29538478333334,
+          -20.16716685
+        ]
+      },
+      "properties": {
+        "id": 98,
+        "endereco": "Rod Antonio Giolo",
+        "numero_imovel": "S/N",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.295704133333324,
+          -20.167238899999997
+        ]
+      },
+      "properties": {
+        "id": 99,
+        "endereco": "Rod Antonio Giolo",
+        "numero_imovel": "74",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29598408333333,
+          -20.16762045
+        ]
+      },
+      "properties": {
+        "id": 100,
+        "endereco": "Rod Antonio Giolo",
+        "numero_imovel": "23 A",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29600108333334,
+          -20.16762141666667
+        ]
+      },
+      "properties": {
+        "id": 101,
+        "endereco": "Rod Antonio Giolo",
+        "numero_imovel": "23 B",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29565021666667,
+          -20.168132216666667
+        ]
+      },
+      "properties": {
+        "id": 102,
+        "endereco": "Rod Antonio Giolo",
+        "numero_imovel": "83 A",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29565021666667,
+          -20.168132216666667
+        ]
+      },
+      "properties": {
+        "id": 103,
+        "endereco": "Rod Antonio Giolo",
+        "numero_imovel": "83 B",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29546919999999,
+          -20.16780955
+        ]
+      },
+      "properties": {
+        "id": 104,
+        "endereco": "Rod Antonio Giolo",
+        "numero_imovel": "S/N",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29550166666666,
+          -20.1677277
+        ]
+      },
+      "properties": {
+        "id": 105,
+        "endereco": "Rod Candido Portinari",
+        "numero_imovel": "S/N",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29549655000001,
+          -20.16763905
+        ]
+      },
+      "properties": {
+        "id": 106,
+        "endereco": "Rod Antonio Giolo",
+        "numero_imovel": "S/N",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29552548333333,
+          -20.16757465
+        ]
+      },
+      "properties": {
+        "id": 107,
+        "endereco": "Rod Antonio Giolo",
+        "numero_imovel": "58 A",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.2955175,
+          -20.16759205
+        ]
+      },
+      "properties": {
+        "id": 108,
+        "endereco": "Rod Antonio Giolo",
+        "numero_imovel": "58 B",
+        "cidade": "Estreito ",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29508463333333,
+          -20.16793295
+        ]
+      },
+      "properties": {
+        "id": 109,
+        "endereco": "Rod Antonio Giolo",
+        "numero_imovel": "20",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29497896666667,
+          -20.167895366666666
+        ]
+      },
+      "properties": {
+        "id": 110,
+        "endereco": "Rod Antonio Giolo",
+        "numero_imovel": "70",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29432813333333,
+          -20.16769651666667
+        ]
+      },
+      "properties": {
+        "id": 111,
+        "endereco": "Rod Antonio Giolo",
+        "numero_imovel": "78",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29394046666666,
+          -20.167558266666667
+        ]
+      },
+      "properties": {
+        "id": 112,
+        "endereco": "Rod Antonio Giolo",
+        "numero_imovel": "S/N",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.293511,
+          -20.167400583333333
+        ]
+      },
+      "properties": {
+        "id": 113,
+        "endereco": "Rod Antonio Giolo",
+        "numero_imovel": "87",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.2935558,
+          -20.167220816666667
+        ]
+      },
+      "properties": {
+        "id": 114,
+        "endereco": "Rod Antonio Giolo",
+        "numero_imovel": "37",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.293829766666676,
+          -20.167049783333333
+        ]
+      },
+      "properties": {
+        "id": 115,
+        "endereco": "Rod Antonio Giolo",
+        "numero_imovel": "S/N",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29471794999999,
+          -20.1666924
+        ]
+      },
+      "properties": {
+        "id": 116,
+        "endereco": "Rua Da Barreira 150",
+        "numero_imovel": "S/N",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.294808266666664,
+          -20.166733233333332
+        ]
+      },
+      "properties": {
+        "id": 117,
+        "endereco": "Rua Da Barreira 150",
+        "numero_imovel": "150",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29486695000001,
+          -20.1667403
+        ]
+      },
+      "properties": {
+        "id": 118,
+        "endereco": "Rua Da Barreira 12",
+        "numero_imovel": "S/N",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.295035616666674,
+          -20.166793283333334
+        ]
+      },
+      "properties": {
+        "id": 119,
+        "endereco": "Rua Da Barreira 122",
+        "numero_imovel": "122",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29499711666667,
+          -20.166836033333333
+        ]
+      },
+      "properties": {
+        "id": 120,
+        "endereco": "Rua Da Barreira 120",
+        "numero_imovel": "120",
+        "cidade": "Pedregulho",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29531255,
+          -20.166841933333334
+        ]
+      },
+      "properties": {
+        "id": 121,
+        "endereco": "Rua Da Barreira 110",
+        "numero_imovel": "110",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.295461949999996,
+          -20.16689823333333
+        ]
+      },
+      "properties": {
+        "id": 122,
+        "endereco": "Rua Da Barreira 108",
+        "numero_imovel": "98 ",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.295532550000004,
+          -20.166913516666668
+        ]
+      },
+      "properties": {
+        "id": 123,
+        "endereco": "Rua Da Barreira 98",
+        "numero_imovel": "106",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.295741433333326,
+          -20.16699045
+        ]
+      },
+      "properties": {
+        "id": 124,
+        "endereco": "Rua Barreira",
+        "numero_imovel": "S/N",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29605553333334,
+          -20.166618449999998
+        ]
+      },
+      "properties": {
+        "id": 125,
+        "endereco": "Rod Antonio Giolo",
+        "numero_imovel": "40",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29618816666666,
+          -20.16619843333333
+        ]
+      },
+      "properties": {
+        "id": 126,
+        "endereco": "Rod Antonio Giolo",
+        "numero_imovel": "S/N",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.296191900000004,
+          -20.165936050000003
+        ]
+      },
+      "properties": {
+        "id": 127,
+        "endereco": "Rod Antonio Giolo",
+        "numero_imovel": "S/N",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29617846666667,
+          -20.16583685
+        ]
+      },
+      "properties": {
+        "id": 128,
+        "endereco": "Rod Antonio Giolo",
+        "numero_imovel": "S/N",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29593166666667,
+          -20.166328716666666
+        ]
+      },
+      "properties": {
+        "id": 129,
+        "endereco": "Rua Jose Vicente Rodrigues",
+        "numero_imovel": "S/N",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.295738766666666,
+          -20.166354899999998
+        ]
+      },
+      "properties": {
+        "id": 130,
+        "endereco": "Rua Jose Vicente Rodrigues",
+        "numero_imovel": "S/N",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.295688133333336,
+          -20.166363550000003
+        ]
+      },
+      "properties": {
+        "id": 131,
+        "endereco": "Rua Jose Vicente Rodrigues",
+        "numero_imovel": "S/N",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.2956194,
+          -20.166361166666665
+        ]
+      },
+      "properties": {
+        "id": 132,
+        "endereco": "Rua Jose Vicente Rodrigues",
+        "numero_imovel": "18",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.2954762,
+          -20.16640226666667
+        ]
+      },
+      "properties": {
+        "id": 133,
+        "endereco": "Rua Jose Vicente Rodrigues",
+        "numero_imovel": "15",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.295369650000005,
+          -20.16641451666667
+        ]
+      },
+      "properties": {
+        "id": 134,
+        "endereco": "Rua Jose Vicente Rodrigues",
+        "numero_imovel": "S/N",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29529900000001,
+          -20.166423716666667
+        ]
+      },
+      "properties": {
+        "id": 135,
+        "endereco": "Rua Jose Vicente Rodrigues",
+        "numero_imovel": "03",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29525468333333,
+          -20.166427333333335
+        ]
+      },
+      "properties": {
+        "id": 136,
+        "endereco": "Rua Jose Vicente Rodrigues",
+        "numero_imovel": "09",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29519103333334,
+          -20.166442033333333
+        ]
+      },
+      "properties": {
+        "id": 137,
+        "endereco": "Rua Jose Vicente Rodrigues",
+        "numero_imovel": "S/N",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.295196616666665,
+          -20.1664221
+        ]
+      },
+      "properties": {
+        "id": 138,
+        "endereco": "Rua Jose Vicente Rodrigues",
+        "numero_imovel": "260",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29582796666667,
+          -20.16734435
+        ]
+      },
+      "properties": {
+        "id": 139,
+        "endereco": "Rod Antonio Giolo",
+        "numero_imovel": "25",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29590113333334,
+          -20.167516616666667
+        ]
+      },
+      "properties": {
+        "id": 140,
+        "endereco": "Rod Antonio Giolo",
+        "numero_imovel": "25B",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29608618333334,
+          -20.16784458333333
+        ]
+      },
+      "properties": {
+        "id": 141,
+        "endereco": "Rod Antonio Giolo",
+        "numero_imovel": "9",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.296219916666665,
+          -20.168122733333334
+        ]
+      },
+      "properties": {
+        "id": 142,
+        "endereco": "Rod Antonio Giolo",
+        "numero_imovel": "82",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.295441600000004,
+          -20.1680275
+        ]
+      },
+      "properties": {
+        "id": 143,
+        "endereco": "Rod Antonio Giolo",
+        "numero_imovel": "S/N",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29546236666667,
+          -20.167842066666665
+        ]
+      },
+      "properties": {
+        "id": 144,
+        "endereco": "Rod Antonio Giolo",
+        "numero_imovel": "76",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29561301666666,
+          -20.16781275
+        ]
+      },
+      "properties": {
+        "id": 145,
+        "endereco": "Rod Antonio Giolo",
+        "numero_imovel": "80",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29553893333333,
+          -20.167650783333332
+        ]
+      },
+      "properties": {
+        "id": 146,
+        "endereco": "Rod Antonio Giolo",
+        "numero_imovel": "152",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29554256666667,
+          -20.167568566666667
+        ]
+      },
+      "properties": {
+        "id": 147,
+        "endereco": "Rod Antonio Giolo",
+        "numero_imovel": "S/N",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29560536666666,
+          -20.167383883333333
+        ]
+      },
+      "properties": {
+        "id": 148,
+        "endereco": "Rod Antonio Giolo",
+        "numero_imovel": "S/N",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29530973333333,
+          -20.168018933333332
+        ]
+      },
+      "properties": {
+        "id": 149,
+        "endereco": "Rod Antonio Giolo",
+        "numero_imovel": "S/N",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29471501666667,
+          -20.167847483333333
+        ]
+      },
+      "properties": {
+        "id": 150,
+        "endereco": "Rod Antonio Giolo",
+        "numero_imovel": "60",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29442791666667,
+          -20.167768916666667
+        ]
+      },
+      "properties": {
+        "id": 151,
+        "endereco": "Rod Antonio Giolo",
+        "numero_imovel": "34",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.294175466666665,
+          -20.167638716666666
+        ]
+      },
+      "properties": {
+        "id": 152,
+        "endereco": "Rod Antonio Giolo",
+        "numero_imovel": "S/N",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29401521666667,
+          -20.167597633333333
+        ]
+      },
+      "properties": {
+        "id": 153,
+        "endereco": "Rod Antonio Giolo",
+        "numero_imovel": "S/N",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.293591633333335,
+          -20.167420049999997
+        ]
+      },
+      "properties": {
+        "id": 154,
+        "endereco": "Rod Antonio Giolo",
+        "numero_imovel": "85",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29341826666667,
+          -20.167268149999998
+        ]
+      },
+      "properties": {
+        "id": 155,
+        "endereco": "Rod Antonio Giolo",
+        "numero_imovel": "38",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.293654583333335,
+          -20.1671399
+        ]
+      },
+      "properties": {
+        "id": 156,
+        "endereco": "Rod Antonio Giolo",
+        "numero_imovel": "36",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.294569383333325,
+          -20.166678366666666
+        ]
+      },
+      "properties": {
+        "id": 157,
+        "endereco": "Rua Da Barreira 160",
+        "numero_imovel": "S/N",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.294569383333325,
+          -20.166678366666666
+        ]
+      },
+      "properties": {
+        "id": 158,
+        "endereco": "Rua Da Barreira 160",
+        "numero_imovel": "S/N",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29491145,
+          -20.166761766666664
+        ]
+      },
+      "properties": {
+        "id": 159,
+        "endereco": "Rua Da Barreira 12",
+        "numero_imovel": "140",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29501881666667,
+          -20.16677286666667
+        ]
+      },
+      "properties": {
+        "id": 160,
+        "endereco": "Rua Da Barreira 140",
+        "numero_imovel": "130",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29518683333334,
+          -20.16683935
+        ]
+      },
+      "properties": {
+        "id": 161,
+        "endereco": "Rua Da Barreira 176",
+        "numero_imovel": "176",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.2954261,
+          -20.166874399999998
+        ]
+      },
+      "properties": {
+        "id": 162,
+        "endereco": "Rua Da Barreira 108",
+        "numero_imovel": "108",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29561051666666,
+          -20.166923083333334
+        ]
+      },
+      "properties": {
+        "id": 163,
+        "endereco": "Rua Da Barreira 98",
+        "numero_imovel": "104",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29567143333334,
+          -20.166989933333333
+        ]
+      },
+      "properties": {
+        "id": 164,
+        "endereco": "Rua da barreira",
+        "numero_imovel": "102",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29587871666666,
+          -20.167003533333332
+        ]
+      },
+      "properties": {
+        "id": 165,
+        "endereco": "Rua da barreira",
+        "numero_imovel": "100",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29605126666667,
+          -20.166702016666665
+        ]
+      },
+      "properties": {
+        "id": 166,
+        "endereco": "Rod Antonio Giolo",
+        "numero_imovel": "S/N",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29612811666666,
+          -20.166492766666668
+        ]
+      },
+      "properties": {
+        "id": 167,
+        "endereco": "Rod Antonio Giolo",
+        "numero_imovel": "42",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29613930000001,
+          -20.166382283333334
+        ]
+      },
+      "properties": {
+        "id": 168,
+        "endereco": "Rod Antonio Giolo",
+        "numero_imovel": "44",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.295956049999994,
+          -20.166324416666665
+        ]
+      },
+      "properties": {
+        "id": 169,
+        "endereco": "Jose Vicente Rodrigues",
+        "numero_imovel": "52",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29600481666667,
+          -20.166298016666666
+        ]
+      },
+      "properties": {
+        "id": 170,
+        "endereco": "Rua Jose Vicente Rodrigues",
+        "numero_imovel": "23",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29589835,
+          -20.166318283333332
+        ]
+      },
+      "properties": {
+        "id": 171,
+        "endereco": "Rua Jose Vicente Rodrigues",
+        "numero_imovel": "33",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.295829133333335,
+          -20.166295166666664
+        ]
+      },
+      "properties": {
+        "id": 172,
+        "endereco": "Rua Jose Vicente Rodrigues",
+        "numero_imovel": "12",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.295803750000005,
+          -20.166300349999997
+        ]
+      },
+      "properties": {
+        "id": 173,
+        "endereco": "Rua Jose Vicente Rodrigues",
+        "numero_imovel": "S/N",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.295742133333334,
+          -20.166343016666666
+        ]
+      },
+      "properties": {
+        "id": 174,
+        "endereco": "Rua Jose Vicente Rodrigres",
+        "numero_imovel": "S/N",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29567791666667,
+          -20.166334866666666
+        ]
+      },
+      "properties": {
+        "id": 175,
+        "endereco": "Rua Jose Vicente Rodrigues",
+        "numero_imovel": "S/N",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29563195000001,
+          -20.166342433333334
+        ]
+      },
+      "properties": {
+        "id": 176,
+        "endereco": "Rua Jose Vicente Rodrigues",
+        "numero_imovel": "06",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29555493333334,
+          -20.166344233333334
+        ]
+      },
+      "properties": {
+        "id": 177,
+        "endereco": "Rua Jose Vicente Rodrigues",
+        "numero_imovel": "S/N",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.2954334,
+          -20.166337633333335
+        ]
+      },
+      "properties": {
+        "id": 178,
+        "endereco": "Rua Jose Vicente Rodrigues",
+        "numero_imovel": "04",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29536396666667,
+          -20.16636138333333
+        ]
+      },
+      "properties": {
+        "id": 179,
+        "endereco": "Rua Jose Vicente Rodrigues",
+        "numero_imovel": "02",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.295244149999995,
+          -20.16641925
+        ]
+      },
+      "properties": {
+        "id": 180,
+        "endereco": "Rua Jose Vicente",
+        "numero_imovel": "07",
+        "cidade": "Estreito",
+        "nucleo": "fra02",
+        "tipo_imovel": "Imóvel",
+        "data_inspecao": "Data não informada"
+      }
+    }
+  ]
+}

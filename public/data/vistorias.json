@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-31T14:34:24.402151+00:00",
+  "gerado_em": "2026-08-31T17:30:44.956033+00:00",
   "registros": [
     {
       "id": 1,
@@ -9,12 +9,14 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.496121650000003,
+      "longitude": -47.39599778333333,
       "imagens": [
         "attachments/1_1_foto_01-20260626-170629.jpg",
-        "attachments/1_1_1_foto_02-20260626-170827.jpg",
+        "attachments/1_1_4_foto_05-20260626-170946.jpg",
         "attachments/1_1_2_foto_03-20260626-170850.jpg",
-        "attachments/1_1_3_foto_04-20260626-170916.jpg",
-        "attachments/1_1_4_foto_05-20260626-170946.jpg"
+        "attachments/1_1_1_foto_02-20260626-170827.jpg",
+        "attachments/1_1_3_foto_04-20260626-170916.jpg"
       ],
       "detalhes": [
         {
@@ -40,6 +42,8 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.496231983333335,
+      "longitude": -47.39595559999999,
       "imagens": [
         "attachments/2_2_foto_01-20260626-172033.jpg",
         "attachments/2_2_7_foto_03-20260626-173023.jpg",
@@ -76,6 +80,8 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.49622103333333,
+      "longitude": -47.39545761666667,
       "imagens": [
         "attachments/3_3_foto_01-20260626-174211.jpg",
         "attachments/3_3_21_foto_05-20260626-174456.jpg",
@@ -111,17 +117,19 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.49611871666667,
+      "longitude": -47.39494553333334,
       "imagens": [
         "attachments/4_4_foto_01-20260626-174821.jpg",
         "attachments/4_4_30_foto_05-20260626-175342.jpg",
         "attachments/4_4_29_foto_05-20260626-175325.jpg",
         "attachments/4_4_28_foto_04-20260626-175157.jpg",
-        "attachments/4_4_27_foto_04-20260626-175147.jpg",
-        "attachments/4_4_26_foto_03-20260626-175054.jpg",
         "attachments/4_4_25_foto_03-20260626-175035.jpg",
         "attachments/4_4_24_foto_02-20260626-175006.jpg",
         "attachments/4_4_23_foto_02-20260626-174957.jpg",
-        "attachments/4_4_22_foto_02-20260626-174950.jpg"
+        "attachments/4_4_22_foto_02-20260626-174950.jpg",
+        "attachments/4_4_27_foto_04-20260626-175147.jpg",
+        "attachments/4_4_26_foto_03-20260626-175054.jpg"
       ],
       "detalhes": [
         {
@@ -147,27 +155,29 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.49618813333333,
+      "longitude": -47.394636616666666,
       "imagens": [
         "attachments/5_5_foto_01-20260626-175504.jpg",
-        "attachments/5_5_31_foto_02-20260626-175613.jpg",
-        "attachments/5_5_32_foto_02-20260626-175621.jpg",
-        "attachments/5_5_33_foto_02-20260626-175626.jpg",
-        "attachments/5_5_34_foto_02-20260626-175644.jpg",
-        "attachments/5_5_35_foto_02-20260626-175658.jpg",
-        "attachments/5_5_36_foto_02-20260626-175714.jpg",
-        "attachments/5_5_37_foto_03-20260626-180029.jpg",
-        "attachments/5_5_38_foto_03-20260626-180036.jpg",
-        "attachments/5_5_39_foto_03-20260626-180056.jpg",
-        "attachments/5_5_40_foto_03-20260626-180101.jpg",
-        "attachments/5_5_41_foto_03-20260626-180110.jpg",
-        "attachments/5_5_42_foto_03-20260626-180118.jpg",
-        "attachments/5_5_43_foto_03-20260626-180131.jpg",
-        "attachments/5_5_44_foto_03-20260626-180137.jpg",
-        "attachments/5_5_45_foto_04-20260626-175807.jpg",
-        "attachments/5_5_46_foto_04-20260626-175817.jpg",
-        "attachments/5_5_47_foto_05-20260626-175855.jpg",
+        "attachments/5_5_49_foto_05-20260626-175935.jpg",
         "attachments/5_5_48_foto_05-20260626-175930.jpg",
-        "attachments/5_5_49_foto_05-20260626-175935.jpg"
+        "attachments/5_5_47_foto_05-20260626-175855.jpg",
+        "attachments/5_5_46_foto_04-20260626-175817.jpg",
+        "attachments/5_5_45_foto_04-20260626-175807.jpg",
+        "attachments/5_5_44_foto_03-20260626-180137.jpg",
+        "attachments/5_5_43_foto_03-20260626-180131.jpg",
+        "attachments/5_5_42_foto_03-20260626-180118.jpg",
+        "attachments/5_5_41_foto_03-20260626-180110.jpg",
+        "attachments/5_5_40_foto_03-20260626-180101.jpg",
+        "attachments/5_5_39_foto_03-20260626-180056.jpg",
+        "attachments/5_5_38_foto_03-20260626-180036.jpg",
+        "attachments/5_5_37_foto_03-20260626-180029.jpg",
+        "attachments/5_5_36_foto_02-20260626-175714.jpg",
+        "attachments/5_5_35_foto_02-20260626-175658.jpg",
+        "attachments/5_5_34_foto_02-20260626-175644.jpg",
+        "attachments/5_5_33_foto_02-20260626-175626.jpg",
+        "attachments/5_5_32_foto_02-20260626-175621.jpg",
+        "attachments/5_5_31_foto_02-20260626-175613.jpg"
       ],
       "detalhes": [
         {
@@ -193,6 +203,8 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.496169233333333,
+      "longitude": -47.394648833333335,
       "imagens": [
         "attachments/6_6_foto_01-20260626-180556.jpg",
         "attachments/6_6_68_foto_05-20260626-181703.jpg",
@@ -239,6 +251,8 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.496120366666666,
+      "longitude": -47.394250283333335,
       "imagens": [
         "attachments/7_7_foto_01-20260626-181847.jpg",
         "attachments/7_7_83_foto_05-20260626-182333.jpg",
@@ -281,12 +295,14 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.496051883333333,
+      "longitude": -47.393374200000004,
       "imagens": [
         "attachments/8_8_foto_01-20260626-182515.jpg",
-        "attachments/8_8_89_foto_03-20260626-182657.jpg",
-        "attachments/8_8_90_foto_04-20260626-182717.jpg",
-        "attachments/8_8_91_foto_04-20260626-182723.jpg",
         "attachments/8_8_92_foto_05-20260626-182745.jpg",
+        "attachments/8_8_91_foto_04-20260626-182723.jpg",
+        "attachments/8_8_90_foto_04-20260626-182717.jpg",
+        "attachments/8_8_89_foto_03-20260626-182657.jpg",
         "attachments/8_8_88_foto_03-20260626-182646.jpg",
         "attachments/8_8_87_foto_03-20260626-182638.jpg",
         "attachments/8_8_86_foto_02-20260626-182610.jpg",
@@ -317,16 +333,18 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.49608011666667,
+      "longitude": -47.39329523333334,
       "imagens": [
         "attachments/9_9_foto_01-20260626-183042.jpg",
-        "attachments/9_9_101_foto_03-20260626-183532.jpg",
-        "attachments/9_9_102_foto_03-20260626-183540.jpg",
-        "attachments/9_9_103_foto_04-20260626-183409.jpg",
-        "attachments/9_9_104_foto_05-20260626-183240.jpg",
-        "attachments/9_9_105_foto_05-20260626-183254.jpg",
-        "attachments/9_9_106_foto_05-20260626-183303.jpg",
-        "attachments/9_9_107_foto_05-20260626-183307.jpg",
         "attachments/9_9_108_foto_05-20260626-183355.jpg",
+        "attachments/9_9_107_foto_05-20260626-183307.jpg",
+        "attachments/9_9_106_foto_05-20260626-183303.jpg",
+        "attachments/9_9_105_foto_05-20260626-183254.jpg",
+        "attachments/9_9_104_foto_05-20260626-183240.jpg",
+        "attachments/9_9_103_foto_04-20260626-183409.jpg",
+        "attachments/9_9_102_foto_03-20260626-183540.jpg",
+        "attachments/9_9_101_foto_03-20260626-183532.jpg",
         "attachments/9_9_100_foto_03-20260626-183453.jpg",
         "attachments/9_9_99_foto_03-20260626-183448.jpg",
         "attachments/9_9_98_foto_03-20260626-183443.jpg",
@@ -359,19 +377,21 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.496044816666664,
+      "longitude": -47.39213013333333,
       "imagens": [
         "attachments/10_10_foto_01-20260626-183829.jpg",
-        "attachments/10_10_109_foto_02-20260626-184232.jpg",
-        "attachments/10_10_110_foto_02-20260626-184237.jpg",
-        "attachments/10_10_111_foto_02-20260626-184301.jpg",
-        "attachments/10_10_112_foto_02-20260626-184306.jpg",
-        "attachments/10_10_113_foto_03-20260626-183848.jpg",
-        "attachments/10_10_114_foto_03-20260626-183914.jpg",
-        "attachments/10_10_115_foto_03-20260626-183927.jpg",
-        "attachments/10_10_116_foto_04-20260626-184048.jpg",
-        "attachments/10_10_117_foto_04-20260626-184057.jpg",
+        "attachments/10_10_119_foto_05-20260626-184216.jpg",
         "attachments/10_10_118_foto_05-20260626-184132.jpg",
-        "attachments/10_10_119_foto_05-20260626-184216.jpg"
+        "attachments/10_10_117_foto_04-20260626-184057.jpg",
+        "attachments/10_10_116_foto_04-20260626-184048.jpg",
+        "attachments/10_10_115_foto_03-20260626-183927.jpg",
+        "attachments/10_10_114_foto_03-20260626-183914.jpg",
+        "attachments/10_10_113_foto_03-20260626-183848.jpg",
+        "attachments/10_10_112_foto_02-20260626-184306.jpg",
+        "attachments/10_10_111_foto_02-20260626-184301.jpg",
+        "attachments/10_10_110_foto_02-20260626-184237.jpg",
+        "attachments/10_10_109_foto_02-20260626-184232.jpg"
       ],
       "detalhes": [
         {
@@ -397,6 +417,8 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.495588750000003,
+      "longitude": -47.39207786666666,
       "imagens": [
         "attachments/11_11_foto_01-20260629-120628.jpg",
         "attachments/11_11_129_foto_05-20260629-121340.jpg",
@@ -433,6 +455,8 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.494880121999927,
+      "longitude": -47.39208843399996,
       "imagens": [
         "attachments/12_12_foto_01-20260629-122826.jpg",
         "attachments/12_12_140_foto_05-20260629-123610.jpg",
@@ -471,6 +495,8 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.494634160999965,
+      "longitude": -47.39208993099993,
       "imagens": [
         "attachments/13_13_foto_01-20260629-123748.jpg",
         "attachments/13_13_149_foto_05-20260629-124213.jpg",
@@ -507,10 +533,11 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.494055470999967,
+      "longitude": -47.39216176599996,
       "imagens": [
         "attachments/14_14_foto_01-20260629-124952.jpg",
         "attachments/14_14_161_foto_05-20260629-125422.jpg",
-        "attachments/14_14_160_foto_05-20260629-125413.jpg",
         "attachments/14_14_159_foto_04-20260629-130645.jpg",
         "attachments/14_14_158_foto_04-20260629-130623.jpg",
         "attachments/14_14_157_foto_04-20260629-130601.jpg",
@@ -520,7 +547,8 @@
         "attachments/14_14_153_foto_03-20260629-125113.jpg",
         "attachments/14_14_152_foto_03-20260629-125105.jpg",
         "attachments/14_14_151_foto_02-20260629-125029.jpg",
-        "attachments/14_14_150_foto_02-20260629-125023.jpg"
+        "attachments/14_14_150_foto_02-20260629-125023.jpg",
+        "attachments/14_14_160_foto_05-20260629-125413.jpg"
       ],
       "detalhes": [
         {
@@ -546,15 +574,17 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.49413565599997,
+      "longitude": -47.39088980799994,
       "imagens": [
         "attachments/15_15_foto_01-20260629-125709.jpg",
-        "attachments/15_15_162_foto_02-20260629-125733.jpg",
-        "attachments/15_15_163_foto_03-20260629-125810.jpg",
-        "attachments/15_15_164_foto_03-20260629-130239.jpg",
-        "attachments/15_15_165_foto_04-20260629-125856.jpg",
-        "attachments/15_15_166_foto_04-20260629-125912.jpg",
+        "attachments/15_15_168_foto_05-20260629-130049.jpg",
         "attachments/15_15_167_foto_04-20260629-130005.jpg",
-        "attachments/15_15_168_foto_05-20260629-130049.jpg"
+        "attachments/15_15_166_foto_04-20260629-125912.jpg",
+        "attachments/15_15_165_foto_04-20260629-125856.jpg",
+        "attachments/15_15_164_foto_03-20260629-130239.jpg",
+        "attachments/15_15_163_foto_03-20260629-125810.jpg",
+        "attachments/15_15_162_foto_02-20260629-125733.jpg"
       ],
       "detalhes": [
         {
@@ -580,14 +610,16 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.494299166666668,
+      "longitude": -47.389838250000004,
       "imagens": [
         "attachments/16_16_foto_01-20260629-131027.jpg",
-        "attachments/16_16_169_foto_02-20260629-131218.jpg",
-        "attachments/16_16_170_foto_03-20260629-131427.jpg",
-        "attachments/16_16_171_foto_03-20260629-131551.jpg",
         "attachments/16_16_172_foto_04-20260629-131722.jpg",
-        "attachments/16_16_173_foto_04-20260629-131801.jpg",
-        "attachments/16_16_174_foto_05-20260629-131847.jpg"
+        "attachments/16_16_171_foto_03-20260629-131551.jpg",
+        "attachments/16_16_170_foto_03-20260629-131427.jpg",
+        "attachments/16_16_169_foto_02-20260629-131218.jpg",
+        "attachments/16_16_174_foto_05-20260629-131847.jpg",
+        "attachments/16_16_173_foto_04-20260629-131801.jpg"
       ],
       "detalhes": [
         {
@@ -613,18 +645,20 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.49473355,
+      "longitude": -47.39041941666666,
       "imagens": [
         "attachments/17_17_foto_01-20260629-132257.jpg",
-        "attachments/17_17_175_foto_02-20260629-132322.jpg",
-        "attachments/17_17_176_foto_02-20260629-132342.jpg",
-        "attachments/17_17_177_foto_02-20260629-132655.jpg",
-        "attachments/17_17_178_foto_02-20260629-132711.jpg",
-        "attachments/17_17_179_foto_03-20260629-132432.jpg",
-        "attachments/17_17_180_foto_03-20260629-132444.jpg",
-        "attachments/17_17_181_foto_03-20260629-132519.jpg",
-        "attachments/17_17_182_foto_04-20260629-132535.jpg",
+        "attachments/17_17_184_foto_05-20260629-132737.jpg",
         "attachments/17_17_183_foto_04-20260629-132622.jpg",
-        "attachments/17_17_184_foto_05-20260629-132737.jpg"
+        "attachments/17_17_182_foto_04-20260629-132535.jpg",
+        "attachments/17_17_181_foto_03-20260629-132519.jpg",
+        "attachments/17_17_180_foto_03-20260629-132444.jpg",
+        "attachments/17_17_179_foto_03-20260629-132432.jpg",
+        "attachments/17_17_178_foto_02-20260629-132711.jpg",
+        "attachments/17_17_177_foto_02-20260629-132655.jpg",
+        "attachments/17_17_176_foto_02-20260629-132342.jpg",
+        "attachments/17_17_175_foto_02-20260629-132322.jpg"
       ],
       "detalhes": [
         {
@@ -650,6 +684,8 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.494930716666666,
+      "longitude": -47.390620999999996,
       "imagens": [
         "attachments/18_18_foto_01-20260629-132916.jpg",
         "attachments/18_18_192_foto_05-20260629-133432.jpg",
@@ -685,17 +721,19 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.4955237,
+      "longitude": -47.39086378333333,
       "imagens": [
         "attachments/19_19_foto_01-20260629-133820.jpg",
         "attachments/19_19_201_foto_05-20260629-134238.jpg",
+        "attachments/19_19_200_foto_05-20260629-134229.jpg",
         "attachments/19_19_199_foto_04-20260629-134056.jpg",
         "attachments/19_19_198_foto_04-20260629-134050.jpg",
         "attachments/19_19_197_foto_03-20260629-134021.jpg",
         "attachments/19_19_196_foto_03-20260629-134012.jpg",
         "attachments/19_19_195_foto_02-20260629-133916.jpg",
         "attachments/19_19_194_foto_02-20260629-133906.jpg",
-        "attachments/19_19_193_foto_02-20260629-133854.jpg",
-        "attachments/19_19_200_foto_05-20260629-134229.jpg"
+        "attachments/19_19_193_foto_02-20260629-133854.jpg"
       ],
       "detalhes": [
         {
@@ -721,16 +759,18 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.495975183333332,
+      "longitude": -47.39039531666667,
       "imagens": [
         "attachments/20_20_foto_01-20260629-134508.jpg",
         "attachments/20_20_209_foto_05-20260629-135140.jpg",
-        "attachments/20_20_208_foto_05-20260629-135033.jpg",
         "attachments/20_20_207_foto_04-20260629-134856.jpg",
         "attachments/20_20_206_foto_04-20260629-134759.jpg",
         "attachments/20_20_205_foto_04-20260629-134749.jpg",
         "attachments/20_20_204_foto_03-20260629-134711.jpg",
         "attachments/20_20_203_foto_02-20260629-134601.jpg",
-        "attachments/20_20_202_foto_02-20260629-134550.jpg"
+        "attachments/20_20_202_foto_02-20260629-134550.jpg",
+        "attachments/20_20_208_foto_05-20260629-135033.jpg"
       ],
       "detalhes": [
         {
@@ -756,6 +796,8 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.49629368333333,
+      "longitude": -47.3899989,
       "imagens": [
         "attachments/21_21_foto_01-20260629-135837.jpg",
         "attachments/21_21_214_foto_05-20260629-140106.jpg",
@@ -788,13 +830,15 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.495518,
+      "longitude": -47.38832089999999,
       "imagens": [
         "attachments/22_22_foto_01-20260629-140644.jpg",
-        "attachments/22_22_215_foto_02-20260629-140708.jpg",
-        "attachments/22_22_216_foto_03-20260629-140738.jpg",
-        "attachments/22_22_217_foto_04-20260629-140759.jpg",
+        "attachments/22_22_219_foto_05-20260629-140921.jpg",
         "attachments/22_22_218_foto_05-20260629-140846.jpg",
-        "attachments/22_22_219_foto_05-20260629-140921.jpg"
+        "attachments/22_22_217_foto_04-20260629-140759.jpg",
+        "attachments/22_22_216_foto_03-20260629-140738.jpg",
+        "attachments/22_22_215_foto_02-20260629-140708.jpg"
       ],
       "detalhes": [
         {
@@ -820,21 +864,23 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.495742833333335,
+      "longitude": -47.38854736666667,
       "imagens": [
         "attachments/23_23_foto_01-20260629-141036.jpg",
-        "attachments/23_23_220_foto_02-20260629-141052.jpg",
-        "attachments/23_23_221_foto_02-20260629-141106.jpg",
-        "attachments/23_23_222_foto_03-20260629-141302.jpg",
-        "attachments/23_23_223_foto_03-20260629-141332.jpg",
-        "attachments/23_23_224_foto_03-20260629-141344.jpg",
-        "attachments/23_23_225_foto_03-20260629-141405.jpg",
-        "attachments/23_23_226_foto_03-20260629-141411.jpg",
-        "attachments/23_23_227_foto_03-20260629-141439.jpg",
-        "attachments/23_23_228_foto_03-20260629-141454.jpg",
-        "attachments/23_23_229_foto_04-20260629-141528.jpg",
-        "attachments/23_23_230_foto_04-20260629-141538.jpg",
+        "attachments/23_23_232_foto_05-20260629-141650.jpg",
         "attachments/23_23_231_foto_05-20260629-141642.jpg",
-        "attachments/23_23_232_foto_05-20260629-141650.jpg"
+        "attachments/23_23_230_foto_04-20260629-141538.jpg",
+        "attachments/23_23_229_foto_04-20260629-141528.jpg",
+        "attachments/23_23_228_foto_03-20260629-141454.jpg",
+        "attachments/23_23_227_foto_03-20260629-141439.jpg",
+        "attachments/23_23_226_foto_03-20260629-141411.jpg",
+        "attachments/23_23_225_foto_03-20260629-141405.jpg",
+        "attachments/23_23_224_foto_03-20260629-141344.jpg",
+        "attachments/23_23_223_foto_03-20260629-141332.jpg",
+        "attachments/23_23_222_foto_03-20260629-141302.jpg",
+        "attachments/23_23_221_foto_02-20260629-141106.jpg",
+        "attachments/23_23_220_foto_02-20260629-141052.jpg"
       ],
       "detalhes": [
         {
@@ -860,6 +906,8 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.4957816,
+      "longitude": -47.388641449999994,
       "imagens": [
         "attachments/24_24_foto_01-20260629-141805.jpg",
         "attachments/24_24_240_foto_05-20260629-142225.jpg",
@@ -895,17 +943,19 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.4959785,
+      "longitude": -47.38893070000001,
       "imagens": [
         "attachments/25_25_foto_01-20260629-142417.jpg",
-        "attachments/25_25_241_foto_02-20260629-142456.jpg",
-        "attachments/25_25_242_foto_02-20260629-142656.jpg",
-        "attachments/25_25_243_foto_02-20260629-142754.jpg",
-        "attachments/25_25_244_foto_03-20260629-142543.jpg",
-        "attachments/25_25_245_foto_03-20260629-142612.jpg",
-        "attachments/25_25_246_foto_03-20260629-142630.jpg",
-        "attachments/25_25_247_foto_04-20260629-142519.jpg",
+        "attachments/25_25_249_foto_05-20260629-142812.jpg",
         "attachments/25_25_248_foto_04-20260629-142742.jpg",
-        "attachments/25_25_249_foto_05-20260629-142812.jpg"
+        "attachments/25_25_247_foto_04-20260629-142519.jpg",
+        "attachments/25_25_246_foto_03-20260629-142630.jpg",
+        "attachments/25_25_245_foto_03-20260629-142612.jpg",
+        "attachments/25_25_244_foto_03-20260629-142543.jpg",
+        "attachments/25_25_243_foto_02-20260629-142754.jpg",
+        "attachments/25_25_242_foto_02-20260629-142656.jpg",
+        "attachments/25_25_241_foto_02-20260629-142456.jpg"
       ],
       "detalhes": [
         {
@@ -931,15 +981,17 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.496152600000002,
+      "longitude": -47.38905263333333,
       "imagens": [
         "attachments/26_26_foto_01-20260629-142958.jpg",
-        "attachments/26_26_250_foto_02-20260629-143039.jpg",
-        "attachments/26_26_251_foto_02-20260629-143045.jpg",
-        "attachments/26_26_252_foto_03-20260629-143125.jpg",
-        "attachments/26_26_253_foto_04-20260629-143143.jpg",
-        "attachments/26_26_254_foto_04-20260629-143148.jpg",
+        "attachments/26_26_256_foto_05-20260629-143251.jpg",
         "attachments/26_26_255_foto_05-20260629-143245.jpg",
-        "attachments/26_26_256_foto_05-20260629-143251.jpg"
+        "attachments/26_26_254_foto_04-20260629-143148.jpg",
+        "attachments/26_26_253_foto_04-20260629-143143.jpg",
+        "attachments/26_26_252_foto_03-20260629-143125.jpg",
+        "attachments/26_26_251_foto_02-20260629-143045.jpg",
+        "attachments/26_26_250_foto_02-20260629-143039.jpg"
       ],
       "detalhes": [
         {
@@ -965,6 +1017,8 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.496649866666665,
+      "longitude": -47.38963735000001,
       "imagens": [
         "attachments/27_27_foto_01-20260629-143713.jpg",
         "attachments/27_27_262_foto_05-20260629-143937.jpg",
@@ -998,18 +1052,20 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.496100066666667,
+      "longitude": -47.39600838333334,
       "imagens": [
         "attachments/28_28_foto_01-20260626-173101.jpg",
-        "attachments/28_28_263_foto_02-20260626-173134.jpg",
-        "attachments/28_28_264_foto_02-20260626-174219.jpg",
-        "attachments/28_28_265_foto_02-20260626-174258.jpg",
-        "attachments/28_28_266_foto_02-20260626-174326.jpg",
-        "attachments/28_28_267_foto_03-20260626-173252.jpg",
-        "attachments/28_28_268_foto_03-20260626-174047.jpg",
-        "attachments/28_28_269_foto_03-20260626-174102.jpg",
-        "attachments/28_28_270_foto_03-20260626-174150.jpg",
+        "attachments/28_28_272_foto_05-20260626-173831.jpg",
         "attachments/28_28_271_foto_04-20260626-173434.jpg",
-        "attachments/28_28_272_foto_05-20260626-173831.jpg"
+        "attachments/28_28_270_foto_03-20260626-174150.jpg",
+        "attachments/28_28_269_foto_03-20260626-174102.jpg",
+        "attachments/28_28_268_foto_03-20260626-174047.jpg",
+        "attachments/28_28_267_foto_03-20260626-173252.jpg",
+        "attachments/28_28_266_foto_02-20260626-174326.jpg",
+        "attachments/28_28_265_foto_02-20260626-174258.jpg",
+        "attachments/28_28_264_foto_02-20260626-174219.jpg",
+        "attachments/28_28_263_foto_02-20260626-173134.jpg"
       ],
       "detalhes": [
         {
@@ -1035,6 +1091,8 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.496107766666672,
+      "longitude": -47.394786483333334,
       "imagens": [
         "attachments/29_29_foto_01-20260626-174805.jpg",
         "attachments/29_29_282_foto_05-20260626-175620.jpg",
@@ -1072,6 +1130,8 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.496087233333334,
+      "longitude": -47.3947399,
       "imagens": [
         "attachments/30_30_foto_01-20260626-175930.jpg",
         "attachments/30_30_286_foto_05-20260626-180721.jpg",
@@ -1103,15 +1163,17 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.49614475,
+      "longitude": -47.39389978333334,
       "imagens": [
         "attachments/31_31_foto_01-20260626-181515.jpg",
-        "attachments/31_31_287_foto_02-20260626-181601.jpg",
-        "attachments/31_31_288_foto_02-20260626-181610.jpg",
-        "attachments/31_31_289_foto_02-20260626-181621.jpg",
-        "attachments/31_31_290_foto_02-20260626-182102.jpg",
-        "attachments/31_31_291_foto_03-20260626-181640.jpg",
+        "attachments/31_31_293_foto_05-20260626-181916.jpg",
         "attachments/31_31_292_foto_04-20260626-181819.jpg",
-        "attachments/31_31_293_foto_05-20260626-181916.jpg"
+        "attachments/31_31_291_foto_03-20260626-181640.jpg",
+        "attachments/31_31_290_foto_02-20260626-182102.jpg",
+        "attachments/31_31_289_foto_02-20260626-181621.jpg",
+        "attachments/31_31_288_foto_02-20260626-181610.jpg",
+        "attachments/31_31_287_foto_02-20260626-181601.jpg"
       ],
       "detalhes": [
         {
@@ -1137,6 +1199,8 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.49609943333333,
+      "longitude": -47.393246749999996,
       "imagens": [
         "attachments/32_32_foto_01-20260626-182306.jpg",
         "attachments/32_32_301_foto_05-20260626-182621.jpg",
@@ -1172,6 +1236,8 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.496103983333334,
+      "longitude": -47.39283965,
       "imagens": [
         "attachments/33_33_foto_01-20260626-183023.jpg",
         "attachments/33_33_310_foto_05-20260626-183441.jpg",
@@ -1207,6 +1273,8 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.495298412999944,
+      "longitude": -47.39220539799993,
       "imagens": [
         "attachments/34_34_foto_01-20260629-122034.jpg",
         "attachments/34_34_317_foto_05-20260629-122344.jpg",
@@ -1241,6 +1309,8 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.494900195999946,
+      "longitude": -47.39222388199994,
       "imagens": [
         "attachments/35_35_foto_01-20260629-122628.jpg",
         "attachments/35_35_329_foto_05-20260629-123303.jpg",
@@ -1280,6 +1350,8 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.494517986999938,
+      "longitude": -47.39223547599994,
       "imagens": [
         "attachments/36_36_foto_01-20260629-123509.jpg",
         "attachments/36_36_337_foto_05-20260629-123742.jpg",
@@ -1315,6 +1387,8 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.494347129999937,
+      "longitude": -47.39210878599994,
       "imagens": [
         "attachments/37_37_foto_01-20260629-124016.jpg",
         "attachments/37_37_345_foto_05-20260629-124407.jpg",
@@ -1350,6 +1424,8 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.494139425999947,
+      "longitude": -47.391073233999975,
       "imagens": [
         "attachments/38_38_foto_01-20260629-125727.jpg",
         "attachments/38_38_352_foto_05-20260629-130000.jpg",
@@ -1384,6 +1460,8 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.49444586666667,
+      "longitude": -47.39012911666667,
       "imagens": [
         "attachments/39_39_foto_01-20260629-131211.jpg",
         "attachments/39_39_361_foto_05-20260629-131534.jpg",
@@ -1420,6 +1498,8 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.49455491666667,
+      "longitude": -47.39016161666667,
       "imagens": [
         "attachments/40_40_foto_01-20260629-131722.jpg",
         "attachments/40_40_372_foto_05-20260629-132318.jpg",
@@ -1458,6 +1538,8 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.4949339,
+      "longitude": -47.39068023333333,
       "imagens": [
         "attachments/41_41_foto_01-20260629-132518.jpg",
         "attachments/41_41_379_foto_05-20260629-132908.jpg",
@@ -1492,15 +1574,17 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.495240183333333,
+      "longitude": -47.391066249999994,
       "imagens": [
         "attachments/42_42_foto_01-20260629-133752.jpg",
         "attachments/42_42_386_foto_05-20260629-134112.jpg",
+        "attachments/42_42_385_foto_04-20260629-134019.jpg",
         "attachments/42_42_384_foto_03-20260629-133945.jpg",
         "attachments/42_42_383_foto_03-20260629-133920.jpg",
         "attachments/42_42_382_foto_03-20260629-133906.jpg",
         "attachments/42_42_381_foto_02-20260629-133827.jpg",
-        "attachments/42_42_380_foto_02-20260629-133818.jpg",
-        "attachments/42_42_385_foto_04-20260629-134019.jpg"
+        "attachments/42_42_380_foto_02-20260629-133818.jpg"
       ],
       "detalhes": [
         {
@@ -1526,6 +1610,8 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.49567526666667,
+      "longitude": -47.39058228333333,
       "imagens": [
         "attachments/43_43_foto_01-20260629-134326.jpg",
         "attachments/43_43_392_foto_05-20260629-134538.jpg",
@@ -1559,6 +1645,8 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.49521778899998,
+      "longitude": -47.39207684899998,
       "imagens": [
         "attachments/44_44_foto_01-20260629-122010.jpg",
         "attachments/44_44_400_foto_05-20260629-122647.jpg",
@@ -1594,21 +1682,23 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.49536821666667,
+      "longitude": -47.38820389999999,
       "imagens": [
         "attachments/45_45_foto_01-20260707-131114.jpg",
-        "attachments/45_45_401_foto_02-20260707-131651.jpg",
-        "attachments/45_45_402_foto_02-20260707-131703.jpg",
-        "attachments/45_45_403_foto_02-20260707-131711.jpg",
-        "attachments/45_45_404_foto_02-20260707-131730.jpg",
-        "attachments/45_45_405_foto_03-20260707-131924.jpg",
-        "attachments/45_45_406_foto_03-20260707-131943.jpg",
-        "attachments/45_45_407_foto_03-20260707-132058.jpg",
-        "attachments/45_45_408_foto_03-20260707-132213.jpg",
-        "attachments/45_45_409_foto_03-20260707-132227.jpg",
-        "attachments/45_45_410_foto_03-20260707-132241.jpg",
-        "attachments/45_45_411_foto_04-20260707-132323.jpg",
+        "attachments/45_45_413_foto_05-20260707-132421.jpg",
         "attachments/45_45_412_foto_04-20260707-132336.jpg",
-        "attachments/45_45_413_foto_05-20260707-132421.jpg"
+        "attachments/45_45_411_foto_04-20260707-132323.jpg",
+        "attachments/45_45_410_foto_03-20260707-132241.jpg",
+        "attachments/45_45_409_foto_03-20260707-132227.jpg",
+        "attachments/45_45_408_foto_03-20260707-132213.jpg",
+        "attachments/45_45_407_foto_03-20260707-132058.jpg",
+        "attachments/45_45_406_foto_03-20260707-131943.jpg",
+        "attachments/45_45_405_foto_03-20260707-131924.jpg",
+        "attachments/45_45_404_foto_02-20260707-131730.jpg",
+        "attachments/45_45_403_foto_02-20260707-131711.jpg",
+        "attachments/45_45_402_foto_02-20260707-131703.jpg",
+        "attachments/45_45_401_foto_02-20260707-131651.jpg"
       ],
       "detalhes": [
         {
@@ -1634,6 +1724,8 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.495271416666665,
+      "longitude": -47.38800486666667,
       "imagens": [
         "attachments/46_46_foto_01-20260707-132603.jpg",
         "attachments/46_46_423_foto_05-20260707-133700.jpg",
@@ -1671,6 +1763,8 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.495094516666665,
+      "longitude": -47.38779005,
       "imagens": [
         "attachments/47_47_foto_01-20260707-133808.jpg",
         "attachments/47_47_432_foto_05-20260707-134225.jpg",
@@ -1707,13 +1801,15 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.495004100000003,
+      "longitude": -47.38768301666667,
       "imagens": [
         "attachments/48_48_foto_01-20260707-134342.jpg",
         "attachments/48_48_437_foto_05-20260707-134921.jpg",
-        "attachments/48_48_436_foto_04-20260707-134833.jpg",
-        "attachments/48_48_435_foto_03-20260707-134659.jpg",
         "attachments/48_48_434_foto_02-20260707-134630.jpg",
-        "attachments/48_48_433_foto_02-20260707-134623.jpg"
+        "attachments/48_48_433_foto_02-20260707-134623.jpg",
+        "attachments/48_48_436_foto_04-20260707-134833.jpg",
+        "attachments/48_48_435_foto_03-20260707-134659.jpg"
       ],
       "detalhes": [
         {
@@ -1739,10 +1835,11 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.49481755,
+      "longitude": -47.387443366666666,
       "imagens": [
         "attachments/49_49_foto_01-20260707-135039.jpg",
         "attachments/49_49_448_foto_05-20260707-135641.jpg",
-        "attachments/49_49_447_foto_05-20260707-135629.jpg",
         "attachments/49_49_446_foto_05-20260707-135619.jpg",
         "attachments/49_49_445_foto_04-20260707-135541.jpg",
         "attachments/49_49_444_foto_04-20260707-135534.jpg",
@@ -1751,7 +1848,8 @@
         "attachments/49_49_441_foto_02-20260707-135159.jpg",
         "attachments/49_49_440_foto_02-20260707-135111.jpg",
         "attachments/49_49_439_foto_02-20260707-135103.jpg",
-        "attachments/49_49_438_foto_02-20260707-135054.jpg"
+        "attachments/49_49_438_foto_02-20260707-135054.jpg",
+        "attachments/49_49_447_foto_05-20260707-135629.jpg"
       ],
       "detalhes": [
         {
@@ -1777,6 +1875,8 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.494644366666666,
+      "longitude": -47.38728491666667,
       "imagens": [
         "attachments/50_50_foto_01-20260707-135848.jpg",
         "attachments/50_50_462_foto_05-20260707-140228.jpg",
@@ -1818,6 +1918,8 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.494538666666664,
+      "longitude": -47.38711078333334,
       "imagens": [
         "attachments/51_51_foto_01-20260707-140322.jpg",
         "attachments/51_51_472_foto_05-20260707-140729.jpg",
@@ -1855,6 +1957,8 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.49437968333333,
+      "longitude": -47.38691359999999,
       "imagens": [
         "attachments/52_52_foto_01-20260707-140837.jpg",
         "attachments/52_52_483_foto_05-20260707-141303.jpg",
@@ -1893,6 +1997,8 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.494242483333334,
+      "longitude": -47.38675005,
       "imagens": [
         "attachments/53_53_foto_01-20260707-141357.jpg",
         "attachments/53_53_493_foto_05-20260707-142041.jpg",
@@ -1930,6 +2036,8 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.49414715,
+      "longitude": -47.38662418333333,
       "imagens": [
         "attachments/54_54_foto_01-20260707-142205.jpg",
         "attachments/54_54_504_foto_05-20260707-142534.jpg",
@@ -1968,6 +2076,8 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.494088633333334,
+      "longitude": -47.38655193333334,
       "imagens": [
         "attachments/55_55_foto_01-20260707-142633.jpg",
         "attachments/55_55_512_foto_05-20260707-143003.jpg",
@@ -2003,6 +2113,8 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.49567526666667,
+      "longitude": -47.39058228333333,
       "imagens": [
         "attachments/56_56_foto_01-20260629-134326.jpg",
         "attachments/56_56_518_foto_05-20260629-134538.jpg",
@@ -2036,6 +2148,8 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.496261933333336,
+      "longitude": -47.39012553333334,
       "imagens": [
         "attachments/57_57_foto_01-20260629-134823.jpg",
         "attachments/57_57_529_foto_05-20260629-135342.jpg",
@@ -2074,18 +2188,20 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.496477066666667,
+      "longitude": -47.38988200000001,
       "imagens": [
         "attachments/58_58_foto_01-20260629-135549.jpg",
-        "attachments/58_58_530_foto_02-20260629-135630.jpg",
-        "attachments/58_58_531_foto_02-20260629-135643.jpg",
-        "attachments/58_58_532_foto_02-20260629-143730.jpg",
-        "attachments/58_58_533_foto_03-20260629-135709.jpg",
-        "attachments/58_58_534_foto_03-20260629-135719.jpg",
-        "attachments/58_58_535_foto_03-20260629-135730.jpg",
-        "attachments/58_58_536_foto_03-20260629-135751.jpg",
-        "attachments/58_58_537_foto_04-20260629-135820.jpg",
+        "attachments/58_58_539_foto_05-20260629-135906.jpg",
         "attachments/58_58_538_foto_04-20260629-135830.jpg",
-        "attachments/58_58_539_foto_05-20260629-135906.jpg"
+        "attachments/58_58_537_foto_04-20260629-135820.jpg",
+        "attachments/58_58_536_foto_03-20260629-135751.jpg",
+        "attachments/58_58_535_foto_03-20260629-135730.jpg",
+        "attachments/58_58_534_foto_03-20260629-135719.jpg",
+        "attachments/58_58_533_foto_03-20260629-135709.jpg",
+        "attachments/58_58_532_foto_02-20260629-143730.jpg",
+        "attachments/58_58_531_foto_02-20260629-135643.jpg",
+        "attachments/58_58_530_foto_02-20260629-135630.jpg"
       ],
       "detalhes": [
         {
@@ -2111,6 +2227,8 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.49559556666667,
+      "longitude": -47.38838818333333,
       "imagens": [
         "attachments/59_59_foto_01-20260629-140810.jpg",
         "attachments/59_59_546_foto_05-20260629-141032.jpg",
@@ -2145,6 +2263,8 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.495721416666665,
+      "longitude": -47.38858851666667,
       "imagens": [
         "attachments/60_60_foto_01-20260629-141247.jpg",
         "attachments/60_60_551_foto_05-20260629-141526.jpg",
@@ -2177,17 +2297,19 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.49577103333333,
+      "longitude": -47.388661783333326,
       "imagens": [
         "attachments/61_61_foto_01-20260629-141707.jpg",
         "attachments/61_61_560_foto_05-20260629-142050.jpg",
+        "attachments/61_61_559_foto_04-20260629-142022.jpg",
         "attachments/61_61_558_foto_03-20260629-142145.jpg",
         "attachments/61_61_557_foto_03-20260629-141939.jpg",
         "attachments/61_61_556_foto_03-20260629-141930.jpg",
         "attachments/61_61_555_foto_03-20260629-141837.jpg",
         "attachments/61_61_554_foto_02-20260629-141803.jpg",
         "attachments/61_61_553_foto_02-20260629-141751.jpg",
-        "attachments/61_61_552_foto_02-20260629-141739.jpg",
-        "attachments/61_61_559_foto_04-20260629-142022.jpg"
+        "attachments/61_61_552_foto_02-20260629-141739.jpg"
       ],
       "detalhes": [
         {
@@ -2213,6 +2335,8 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.4962466,
+      "longitude": -47.38923466666667,
       "imagens": [
         "attachments/62_62_foto_01-20260629-142348.jpg",
         "attachments/62_62_567_foto_05-20260629-143123.jpg",
@@ -2247,6 +2371,8 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.495400033333333,
+      "longitude": -47.388164149999994,
       "imagens": [
         "attachments/63_63_foto_01-20260707-131104.jpg",
         "attachments/63_63_578_foto_05-20260707-132125.jpg",
@@ -2285,6 +2411,8 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.495221883333333,
+      "longitude": -47.38799673333333,
       "imagens": [
         "attachments/64_64_foto_01-20260707-132332.jpg",
         "attachments/64_64_586_foto_05-20260707-132705.jpg",
@@ -2320,6 +2448,8 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.495037383333333,
+      "longitude": -47.38773401666667,
       "imagens": [
         "attachments/65_65_foto_01-20260707-133016.jpg",
         "attachments/65_65_597_foto_05-20260707-133437.jpg",
@@ -2358,6 +2488,8 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.494828916666666,
+      "longitude": -47.38752106666667,
       "imagens": [
         "attachments/66_66_foto_01-20260707-133624.jpg",
         "attachments/66_66_601_foto_05-20260707-133905.jpg",
@@ -2389,18 +2521,20 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.494699216666667,
+      "longitude": -47.38740541666666,
       "imagens": [
         "attachments/67_67_foto_01-20260707-134409.jpg",
-        "attachments/67_67_602_foto_02-20260707-134127.jpg",
-        "attachments/67_67_603_foto_02-20260707-134133.jpg",
-        "attachments/67_67_604_foto_02-20260707-134437.jpg",
-        "attachments/67_67_605_foto_03-20260707-134224.jpg",
-        "attachments/67_67_606_foto_03-20260707-134300.jpg",
-        "attachments/67_67_607_foto_03-20260707-134552.jpg",
-        "attachments/67_67_608_foto_03-20260707-134751.jpg",
-        "attachments/67_67_609_foto_04-20260707-134624.jpg",
+        "attachments/67_67_611_foto_05-20260707-134729.jpg",
         "attachments/67_67_610_foto_04-20260707-134632.jpg",
-        "attachments/67_67_611_foto_05-20260707-134729.jpg"
+        "attachments/67_67_609_foto_04-20260707-134624.jpg",
+        "attachments/67_67_608_foto_03-20260707-134751.jpg",
+        "attachments/67_67_607_foto_03-20260707-134552.jpg",
+        "attachments/67_67_606_foto_03-20260707-134300.jpg",
+        "attachments/67_67_605_foto_03-20260707-134224.jpg",
+        "attachments/67_67_604_foto_02-20260707-134437.jpg",
+        "attachments/67_67_603_foto_02-20260707-134133.jpg",
+        "attachments/67_67_602_foto_02-20260707-134127.jpg"
       ],
       "detalhes": [
         {
@@ -2426,6 +2560,8 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.494494983333333,
+      "longitude": -47.387106816666666,
       "imagens": [
         "attachments/68_68_foto_01-20260707-134930.jpg",
         "attachments/68_68_620_foto_05-20260707-135306.jpg",
@@ -2462,6 +2598,8 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.494339583333332,
+      "longitude": -47.38689420000001,
       "imagens": [
         "attachments/69_69_foto_01-20260707-135442.jpg",
         "attachments/69_69_627_foto_05-20260707-135702.jpg",
@@ -2496,6 +2634,8 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.49417905,
+      "longitude": -47.38675535000001,
       "imagens": [
         "attachments/70_70_foto_01-20260707-135848.jpg",
         "attachments/70_70_634_foto_05-20260707-140246.jpg",
@@ -2530,6 +2670,8 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.494075300000002,
+      "longitude": -47.38653491666667,
       "imagens": [
         "attachments/71_71_foto_01-20260707-140438.jpg",
         "attachments/71_71_644_foto_05-20260707-141008.jpg",
@@ -2567,12 +2709,14 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.493993733333333,
+      "longitude": -47.38642023333333,
       "imagens": [
         "attachments/72_72_foto_01-20260707-142009.jpg",
         "attachments/72_72_648_foto_05-20260707-142122.jpg",
-        "attachments/72_72_647_foto_04-20260707-142103.jpg",
         "attachments/72_72_646_foto_03-20260707-142038.jpg",
-        "attachments/72_72_645_foto_02-20260707-142024.jpg"
+        "attachments/72_72_645_foto_02-20260707-142024.jpg",
+        "attachments/72_72_647_foto_04-20260707-142103.jpg"
       ],
       "detalhes": [
         {
@@ -2598,6 +2742,8 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.49403308333333,
+      "longitude": -47.3864699,
       "imagens": [
         "attachments/73_73_foto_01-20260707-142754.jpg",
         "attachments/73_73_652_foto_05-20260707-142920.jpg",
@@ -2629,10 +2775,10 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.499439116666668,
+      "longitude": -47.39038208333333,
       "imagens": [
         "attachments/74_74_foto_01-20260708-164725.jpg",
-        "attachments/74_74_662_foto_05-20260708-165308.jpg",
-        "attachments/74_74_660_foto_04-20260708-165245.jpg",
         "attachments/74_74_659_foto_03-20260708-165130.jpg",
         "attachments/74_74_658_foto_03-20260708-165122.jpg",
         "attachments/74_74_657_foto_03-20260708-165106.jpg",
@@ -2640,7 +2786,9 @@
         "attachments/74_74_655_foto_02-20260708-164800.jpg",
         "attachments/74_74_654_foto_02-20260708-164750.jpg",
         "attachments/74_74_653_foto_02-20260708-164744.jpg",
-        "attachments/74_74_661_foto_04-20260708-165251.jpg"
+        "attachments/74_74_662_foto_05-20260708-165308.jpg",
+        "attachments/74_74_661_foto_04-20260708-165251.jpg",
+        "attachments/74_74_660_foto_04-20260708-165245.jpg"
       ],
       "detalhes": [
         {
@@ -2666,6 +2814,8 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.499418933333335,
+      "longitude": -47.389953166666665,
       "imagens": [
         "attachments/75_75_foto_01-20260708-165507.jpg",
         "attachments/75_75_671_foto_05-20260708-165850.jpg",
@@ -2702,6 +2852,8 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.49911961666667,
+      "longitude": -47.38958208333334,
       "imagens": [
         "attachments/76_76_foto_01-20260708-170105.jpg",
         "attachments/76_76_684_foto_05-20260708-170654.jpg",
@@ -2742,9 +2894,12 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.4989223,
+      "longitude": -47.38937591666666,
       "imagens": [
         "attachments/77_77_foto_01-20260708-170827.jpg",
         "attachments/77_77_698_foto_05-20260708-171950.jpg",
+        "attachments/77_77_697_foto_04-20260708-171728.jpg",
         "attachments/77_77_696_foto_04-20260708-171653.jpg",
         "attachments/77_77_695_foto_03-20260708-171158.jpg",
         "attachments/77_77_694_foto_03-20260708-171150.jpg",
@@ -2756,8 +2911,7 @@
         "attachments/77_77_688_foto_02-20260708-170958.jpg",
         "attachments/77_77_687_foto_02-20260708-170940.jpg",
         "attachments/77_77_686_foto_02-20260708-170933.jpg",
-        "attachments/77_77_685_foto_02-20260708-170920.jpg",
-        "attachments/77_77_697_foto_04-20260708-171728.jpg"
+        "attachments/77_77_685_foto_02-20260708-170920.jpg"
       ],
       "detalhes": [
         {
@@ -2783,10 +2937,13 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.49845121666667,
+      "longitude": -47.38884538333333,
       "imagens": [
         "attachments/78_78_foto_01-20260708-172133.jpg",
         "attachments/78_78_711_foto_05-20260708-172734.jpg",
         "attachments/78_78_710_foto_05-20260708-172722.jpg",
+        "attachments/78_78_709_foto_04-20260708-172640.jpg",
         "attachments/78_78_708_foto_04-20260708-172618.jpg",
         "attachments/78_78_707_foto_03-20260708-172537.jpg",
         "attachments/78_78_706_foto_03-20260708-172513.jpg",
@@ -2796,8 +2953,7 @@
         "attachments/78_78_702_foto_02-20260708-172313.jpg",
         "attachments/78_78_701_foto_02-20260708-172304.jpg",
         "attachments/78_78_700_foto_02-20260708-172256.jpg",
-        "attachments/78_78_699_foto_02-20260708-172239.jpg",
-        "attachments/78_78_709_foto_04-20260708-172640.jpg"
+        "attachments/78_78_699_foto_02-20260708-172239.jpg"
       ],
       "detalhes": [
         {
@@ -2823,10 +2979,11 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.498099016666668,
+      "longitude": -47.388372733333334,
       "imagens": [
         "attachments/79_79_foto_01-20260708-173006.jpg",
         "attachments/79_79_722_foto_05-20260708-173600.jpg",
-        "attachments/79_79_721_foto_04-20260708-173530.jpg",
         "attachments/79_79_720_foto_04-20260708-173454.jpg",
         "attachments/79_79_719_foto_03-20260708-173338.jpg",
         "attachments/79_79_718_foto_03-20260708-173330.jpg",
@@ -2835,7 +2992,8 @@
         "attachments/79_79_715_foto_02-20260708-173410.jpg",
         "attachments/79_79_714_foto_02-20260708-173150.jpg",
         "attachments/79_79_713_foto_02-20260708-173131.jpg",
-        "attachments/79_79_712_foto_02-20260708-173122.jpg"
+        "attachments/79_79_712_foto_02-20260708-173122.jpg",
+        "attachments/79_79_721_foto_04-20260708-173530.jpg"
       ],
       "detalhes": [
         {
@@ -2861,6 +3019,8 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.49918095,
+      "longitude": -47.38996576666667,
       "imagens": [
         "attachments/80_80_foto_01-20260708-165040.jpg",
         "attachments/80_80_728_foto_05-20260708-165520.jpg",
@@ -2894,6 +3054,8 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.4990995,
+      "longitude": -47.38972546666667,
       "imagens": [
         "attachments/81_81_foto_01-20260708-165745.jpg",
         "attachments/81_81_732_foto_05-20260708-170015.jpg",
@@ -2925,9 +3087,12 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.498821383333333,
+      "longitude": -47.38936053333334,
       "imagens": [
         "attachments/82_82_foto_01-20260708-170404.jpg",
         "attachments/82_82_742_foto_05-20260708-170940.jpg",
+        "attachments/82_82_741_foto_04-20260708-170901.jpg",
         "attachments/82_82_740_foto_04-20260708-170847.jpg",
         "attachments/82_82_739_foto_03-20260708-170704.jpg",
         "attachments/82_82_738_foto_03-20260708-170642.jpg",
@@ -2935,8 +3100,7 @@
         "attachments/82_82_736_foto_03-20260708-170558.jpg",
         "attachments/82_82_735_foto_03-20260708-170535.jpg",
         "attachments/82_82_734_foto_02-20260708-170451.jpg",
-        "attachments/82_82_733_foto_02-20260708-170434.jpg",
-        "attachments/82_82_741_foto_04-20260708-170901.jpg"
+        "attachments/82_82_733_foto_02-20260708-170434.jpg"
       ],
       "detalhes": [
         {
@@ -2962,15 +3126,17 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.498495600000002,
+      "longitude": -47.388896366666664,
       "imagens": [
         "attachments/83_83_foto_01-20260708-171126.jpg",
         "attachments/83_83_749_foto_05-20260708-171408.jpg",
         "attachments/83_83_748_foto_04-20260708-171341.jpg",
+        "attachments/83_83_747_foto_04-20260708-171335.jpg",
         "attachments/83_83_746_foto_03-20260708-171308.jpg",
         "attachments/83_83_745_foto_03-20260708-171301.jpg",
         "attachments/83_83_744_foto_02-20260708-171151.jpg",
-        "attachments/83_83_743_foto_02-20260708-171145.jpg",
-        "attachments/83_83_747_foto_04-20260708-171335.jpg"
+        "attachments/83_83_743_foto_02-20260708-171145.jpg"
       ],
       "detalhes": [
         {
@@ -2996,6 +3162,8 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.4983447,
+      "longitude": -47.38863701666667,
       "imagens": [
         "attachments/84_84_foto_01-20260708-171608.jpg",
         "attachments/84_84_758_foto_05-20260708-171910.jpg",
@@ -3032,6 +3200,8 @@
       "nucleo": "fra01",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.49821528333333,
+      "longitude": -47.38846545,
       "imagens": [
         "attachments/85_85_foto_01-20260708-172135.jpg",
         "attachments/85_85_767_foto_05-20260708-173057.jpg",
@@ -3068,6 +3238,8 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.166924950000002,
+      "longitude": -47.29431188333333,
       "imagens": [
         "attachments/86_86_foto_01-20260714-131933.jpg",
         "attachments/86_86_772_foto_05-20260714-132213.jpg",
@@ -3100,13 +3272,15 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.167340433333333,
+      "longitude": -47.2945626,
       "imagens": [
         "attachments/87_87_foto_01-20260714-132928.jpg",
         "attachments/87_87_777_foto_05-20260714-133314.jpg",
+        "attachments/87_87_776_foto_04-20260714-133105.jpg",
         "attachments/87_87_775_foto_04-20260714-133101.jpg",
         "attachments/87_87_774_foto_03-20260714-133034.jpg",
-        "attachments/87_87_773_foto_02-20260714-133000.jpg",
-        "attachments/87_87_776_foto_04-20260714-133105.jpg"
+        "attachments/87_87_773_foto_02-20260714-133000.jpg"
       ],
       "detalhes": [
         {
@@ -3132,12 +3306,14 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.167429666666667,
+      "longitude": -47.294551166666665,
       "imagens": [
         "attachments/88_88_foto_01-20260714-133559.jpg",
         "attachments/88_88_781_foto_05-20260714-133727.jpg",
-        "attachments/88_88_780_foto_04-20260714-133804.jpg",
         "attachments/88_88_779_foto_03-20260714-133639.jpg",
-        "attachments/88_88_778_foto_02-20260714-133612.jpg"
+        "attachments/88_88_778_foto_02-20260714-133612.jpg",
+        "attachments/88_88_780_foto_04-20260714-133804.jpg"
       ],
       "detalhes": [
         {
@@ -3163,12 +3339,14 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.167447816666666,
+      "longitude": -47.29453448333334,
       "imagens": [
         "attachments/89_89_foto_01-20260714-133920.jpg",
         "attachments/89_89_785_foto_05-20260714-134117.jpg",
-        "attachments/89_89_784_foto_04-20260714-134039.jpg",
         "attachments/89_89_783_foto_03-20260714-134013.jpg",
-        "attachments/89_89_782_foto_02-20260714-133934.jpg"
+        "attachments/89_89_782_foto_02-20260714-133934.jpg",
+        "attachments/89_89_784_foto_04-20260714-134039.jpg"
       ],
       "detalhes": [
         {
@@ -3194,6 +3372,8 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.167475916666668,
+      "longitude": -47.29453456666667,
       "imagens": [
         "attachments/90_90_foto_01-20260714-134232.jpg",
         "attachments/90_90_789_foto_05-20260714-135001.jpg",
@@ -3225,14 +3405,16 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.16713006666667,
+      "longitude": -47.295212049999996,
       "imagens": [
         "attachments/91_91_foto_01-20260714-152647.jpg",
         "attachments/91_91_795_foto_05-20260714-153122.jpg",
-        "attachments/91_91_794_foto_05-20260714-153107.jpg",
         "attachments/91_91_793_foto_04-20260714-152838.jpg",
         "attachments/91_91_792_foto_03-20260714-152759.jpg",
         "attachments/91_91_791_foto_02-20260714-152719.jpg",
-        "attachments/91_91_790_foto_02-20260714-152713.jpg"
+        "attachments/91_91_790_foto_02-20260714-152713.jpg",
+        "attachments/91_91_794_foto_05-20260714-153107.jpg"
       ],
       "detalhes": [
         {
@@ -3258,6 +3440,8 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.167132733333336,
+      "longitude": -47.29532553333333,
       "imagens": [
         "attachments/92_92_foto_01-20260714-153911.jpg",
         "attachments/92_92_800_foto_05-20260714-154329.jpg",
@@ -3290,6 +3474,8 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.1672719,
+      "longitude": -47.295553033333334,
       "imagens": [
         "attachments/93_93_foto_01-20260714-154541.jpg",
         "attachments/93_93_806_foto_05-20260714-155050.jpg",
@@ -3323,6 +3509,8 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.166946716666665,
+      "longitude": -47.294484233333336,
       "imagens": [
         "attachments/94_94_foto_01-20260714-131939.jpg",
         "attachments/94_94_812_foto_05-20260714-132230.jpg",
@@ -3356,6 +3544,8 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.16697,
+      "longitude": -47.294604783333334,
       "imagens": [
         "attachments/95_95_foto_01-20260714-132503.jpg",
         "attachments/95_95_821_foto_05-20260714-132848.jpg",
@@ -3392,26 +3582,28 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.167012983333333,
+      "longitude": -47.29476528333333,
       "imagens": [
         "attachments/96_96_foto_01-20260714-133105.jpg",
-        "attachments/96_96_822_foto_02-20260714-133128.jpg",
-        "attachments/96_96_823_foto_02-20260714-133142.jpg",
-        "attachments/96_96_824_foto_02-20260714-133153.jpg",
-        "attachments/96_96_825_foto_02-20260714-133210.jpg",
-        "attachments/96_96_826_foto_02-20260714-133454.jpg",
-        "attachments/96_96_827_foto_02-20260714-133502.jpg",
-        "attachments/96_96_828_foto_02-20260714-133515.jpg",
-        "attachments/96_96_829_foto_02-20260714-133527.jpg",
-        "attachments/96_96_830_foto_02-20260714-134909.jpg",
-        "attachments/96_96_831_foto_03-20260714-133244.jpg",
-        "attachments/96_96_832_foto_03-20260714-133259.jpg",
-        "attachments/96_96_833_foto_03-20260714-134840.jpg",
-        "attachments/96_96_834_foto_04-20260714-133329.jpg",
-        "attachments/96_96_835_foto_04-20260714-133346.jpg",
-        "attachments/96_96_836_foto_04-20260714-133403.jpg",
-        "attachments/96_96_837_foto_04-20260714-133712.jpg",
+        "attachments/96_96_839_foto_05-20260714-133753.jpg",
         "attachments/96_96_838_foto_04-20260714-133724.jpg",
-        "attachments/96_96_839_foto_05-20260714-133753.jpg"
+        "attachments/96_96_837_foto_04-20260714-133712.jpg",
+        "attachments/96_96_836_foto_04-20260714-133403.jpg",
+        "attachments/96_96_835_foto_04-20260714-133346.jpg",
+        "attachments/96_96_834_foto_04-20260714-133329.jpg",
+        "attachments/96_96_833_foto_03-20260714-134840.jpg",
+        "attachments/96_96_832_foto_03-20260714-133259.jpg",
+        "attachments/96_96_831_foto_03-20260714-133244.jpg",
+        "attachments/96_96_830_foto_02-20260714-134909.jpg",
+        "attachments/96_96_829_foto_02-20260714-133527.jpg",
+        "attachments/96_96_828_foto_02-20260714-133515.jpg",
+        "attachments/96_96_827_foto_02-20260714-133502.jpg",
+        "attachments/96_96_826_foto_02-20260714-133454.jpg",
+        "attachments/96_96_825_foto_02-20260714-133210.jpg",
+        "attachments/96_96_824_foto_02-20260714-133153.jpg",
+        "attachments/96_96_823_foto_02-20260714-133142.jpg",
+        "attachments/96_96_822_foto_02-20260714-133128.jpg"
       ],
       "detalhes": [
         {
@@ -3437,10 +3629,11 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.1671079,
+      "longitude": -47.295081333333336,
       "imagens": [
         "attachments/97_97_foto_01-20260714-153055.jpg",
         "attachments/97_97_849_foto_05-20260714-153517.jpg",
-        "attachments/97_97_848_foto_05-20260714-153509.jpg",
         "attachments/97_97_847_foto_04-20260714-153428.jpg",
         "attachments/97_97_846_foto_04-20260714-153348.jpg",
         "attachments/97_97_845_foto_03-20260714-153323.jpg",
@@ -3448,7 +3641,8 @@
         "attachments/97_97_843_foto_02-20260714-153201.jpg",
         "attachments/97_97_842_foto_02-20260714-153153.jpg",
         "attachments/97_97_841_foto_02-20260714-153135.jpg",
-        "attachments/97_97_840_foto_02-20260714-153128.jpg"
+        "attachments/97_97_840_foto_02-20260714-153128.jpg",
+        "attachments/97_97_848_foto_05-20260714-153509.jpg"
       ],
       "detalhes": [
         {
@@ -3474,17 +3668,19 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.16716685,
+      "longitude": -47.29538478333334,
       "imagens": [
         "attachments/98_98_foto_01-20260714-153952.jpg",
-        "attachments/98_98_850_foto_02-20260714-154451.jpg",
-        "attachments/98_98_851_foto_02-20260714-154457.jpg",
-        "attachments/98_98_852_foto_02-20260714-154505.jpg",
-        "attachments/98_98_853_foto_02-20260714-154510.jpg",
-        "attachments/98_98_854_foto_03-20260714-154350.jpg",
-        "attachments/98_98_855_foto_03-20260714-154404.jpg",
+        "attachments/98_98_858_foto_05-20260714-155019.jpg",
         "attachments/98_98_856_foto_04-20260714-154940.jpg",
-        "attachments/98_98_857_foto_04-20260714-154951.jpg",
-        "attachments/98_98_858_foto_05-20260714-155019.jpg"
+        "attachments/98_98_855_foto_03-20260714-154404.jpg",
+        "attachments/98_98_854_foto_03-20260714-154350.jpg",
+        "attachments/98_98_853_foto_02-20260714-154510.jpg",
+        "attachments/98_98_852_foto_02-20260714-154505.jpg",
+        "attachments/98_98_851_foto_02-20260714-154457.jpg",
+        "attachments/98_98_850_foto_02-20260714-154451.jpg",
+        "attachments/98_98_857_foto_04-20260714-154951.jpg"
       ],
       "detalhes": [
         {
@@ -3510,11 +3706,10 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.167238899999997,
+      "longitude": -47.295704133333324,
       "imagens": [
         "attachments/99_99_foto_01-20260715-105703.jpg",
-        "attachments/99_99_869_foto_05-20260715-110429.jpg",
-        "attachments/99_99_868_foto_04-20260715-110246.jpg",
-        "attachments/99_99_867_foto_04-20260715-110151.jpg",
         "attachments/99_99_866_foto_04-20260715-110131.jpg",
         "attachments/99_99_865_foto_03-20260715-110059.jpg",
         "attachments/99_99_864_foto_03-20260715-110052.jpg",
@@ -3522,7 +3717,10 @@
         "attachments/99_99_862_foto_02-20260715-110010.jpg",
         "attachments/99_99_861_foto_02-20260715-105904.jpg",
         "attachments/99_99_860_foto_02-20260715-105843.jpg",
-        "attachments/99_99_859_foto_02-20260715-105831.jpg"
+        "attachments/99_99_859_foto_02-20260715-105831.jpg",
+        "attachments/99_99_869_foto_05-20260715-110429.jpg",
+        "attachments/99_99_868_foto_04-20260715-110246.jpg",
+        "attachments/99_99_867_foto_04-20260715-110151.jpg"
       ],
       "detalhes": [
         {
@@ -3548,12 +3746,14 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.16762045,
+      "longitude": -47.29598408333333,
       "imagens": [
         "attachments/100_100_foto_01-20260715-110812.jpg",
-        "attachments/100_100_870_foto_02-20260715-110836.jpg",
-        "attachments/100_100_871_foto_03-20260715-111112.jpg",
+        "attachments/100_100_873_foto_05-20260715-111219.jpg",
         "attachments/100_100_872_foto_04-20260715-111141.jpg",
-        "attachments/100_100_873_foto_05-20260715-111219.jpg"
+        "attachments/100_100_871_foto_03-20260715-111112.jpg",
+        "attachments/100_100_870_foto_02-20260715-110836.jpg"
       ],
       "detalhes": [
         {
@@ -3579,6 +3779,8 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.16762141666667,
+      "longitude": -47.29600108333334,
       "imagens": [
         "attachments/101_101_foto_01-20260715-111333.jpg",
         "attachments/101_101_886_foto_05-20260715-112306.jpg",
@@ -3619,12 +3821,14 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.168132216666667,
+      "longitude": -47.29565021666667,
       "imagens": [
         "attachments/102_102_foto_01-20260715-121035.jpg",
-        "attachments/102_102_887_foto_02-20260715-121227.jpg",
-        "attachments/102_102_888_foto_03-20260715-121244.jpg",
+        "attachments/102_102_890_foto_05-20260715-121400.jpg",
         "attachments/102_102_889_foto_04-20260715-121312.jpg",
-        "attachments/102_102_890_foto_05-20260715-121400.jpg"
+        "attachments/102_102_888_foto_03-20260715-121244.jpg",
+        "attachments/102_102_887_foto_02-20260715-121227.jpg"
       ],
       "detalhes": [
         {
@@ -3650,6 +3854,8 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.168132216666667,
+      "longitude": -47.29565021666667,
       "imagens": [
         "attachments/103_103_foto_01-20260715-121510.jpg",
         "attachments/103_103_897_foto_05-20260715-121851.jpg",
@@ -3684,10 +3890,11 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.16780955,
+      "longitude": -47.29546919999999,
       "imagens": [
         "attachments/104_104_foto_01-20260715-122418.jpg",
         "attachments/104_104_914_foto_05-20260715-123124.jpg",
-        "attachments/104_104_913_foto_05-20260715-123103.jpg",
         "attachments/104_104_912_foto_04-20260715-123041.jpg",
         "attachments/104_104_911_foto_04-20260715-123033.jpg",
         "attachments/104_104_910_foto_04-20260715-123025.jpg",
@@ -3702,7 +3909,8 @@
         "attachments/104_104_901_foto_03-20260715-122621.jpg",
         "attachments/104_104_900_foto_02-20260715-122602.jpg",
         "attachments/104_104_899_foto_02-20260715-122447.jpg",
-        "attachments/104_104_898_foto_02-20260715-122434.jpg"
+        "attachments/104_104_898_foto_02-20260715-122434.jpg",
+        "attachments/104_104_913_foto_05-20260715-123103.jpg"
       ],
       "detalhes": [
         {
@@ -3728,6 +3936,8 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.1677277,
+      "longitude": -47.29550166666666,
       "imagens": [
         "attachments/105_105_foto_01-20260715-123333.jpg",
         "attachments/105_105_921_foto_05-20260715-123539.jpg",
@@ -3761,6 +3971,8 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.16763905,
+      "longitude": -47.29549655000001,
       "imagens": [
         "attachments/106_106_foto_01-20260715-123758.jpg",
         "attachments/106_106_926_foto_05-20260715-123952.jpg",
@@ -3793,6 +4005,8 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.16757465,
+      "longitude": -47.29552548333333,
       "imagens": [
         "attachments/107_107_foto_01-20260715-124205.jpg",
         "attachments/107_107_931_foto_05-20260715-124957.jpg",
@@ -3825,6 +4039,8 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.16759205,
+      "longitude": -47.2955175,
       "imagens": [
         "attachments/108_108_foto_01-20260715-125059.jpg",
         "attachments/108_108_935_foto_05-20260715-125218.jpg",
@@ -3856,6 +4072,8 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.16793295,
+      "longitude": -47.29508463333333,
       "imagens": [
         "attachments/109_109_foto_01-20260715-125453.jpg",
         "attachments/109_109_947_foto_05-20260715-125943.jpg",
@@ -3895,6 +4113,8 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.167895366666666,
+      "longitude": -47.29497896666667,
       "imagens": [
         "attachments/110_110_foto_01-20260715-130121.jpg",
         "attachments/110_110_962_foto_05-20260715-130714.jpg",
@@ -3937,8 +4157,11 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.16769651666667,
+      "longitude": -47.29432813333333,
       "imagens": [
         "attachments/111_111_foto_01-20260715-131714.jpg",
+        "attachments/111_111_968_foto_04-20260715-131931.jpg",
         "attachments/111_111_967_foto_03-20260715-131914.jpg",
         "attachments/111_111_966_foto_03-20260715-131902.jpg",
         "attachments/111_111_965_foto_02-20260715-131801.jpg",
@@ -3946,8 +4169,7 @@
         "attachments/111_111_963_foto_02-20260715-131742.jpg",
         "attachments/111_111_971_foto_05-20260715-132006.jpg",
         "attachments/111_111_970_foto_05-20260715-131957.jpg",
-        "attachments/111_111_969_foto_04-20260715-131938.jpg",
-        "attachments/111_111_968_foto_04-20260715-131931.jpg"
+        "attachments/111_111_969_foto_04-20260715-131938.jpg"
       ],
       "detalhes": [
         {
@@ -3973,6 +4195,8 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.167558266666667,
+      "longitude": -47.29394046666666,
       "imagens": [
         "attachments/112_112_foto_01-20260715-132940.jpg",
         "attachments/112_112_977_foto_05-20260715-133133.jpg",
@@ -4006,6 +4230,8 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.167400583333333,
+      "longitude": -47.293511,
       "imagens": [
         "attachments/113_113_foto_01-20260715-133314.jpg",
         "attachments/113_113_985_foto_05-20260715-133619.jpg",
@@ -4041,6 +4267,8 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.167220816666667,
+      "longitude": -47.2935558,
       "imagens": [
         "attachments/114_114_foto_01-20260715-134011.jpg",
         "attachments/114_114_992_foto_05-20260715-134316.jpg",
@@ -4075,6 +4303,8 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.167049783333333,
+      "longitude": -47.293829766666676,
       "imagens": [
         "attachments/115_115_foto_01-20260715-134656.jpg",
         "attachments/115_115_997_foto_05-20260715-134841.jpg",
@@ -4107,6 +4337,8 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.1666924,
+      "longitude": -47.29471794999999,
       "imagens": [
         "attachments/116_116_foto_01-20260715-154101.jpg",
         "attachments/116_116_1008_foto_05-20260715-154447.jpg",
@@ -4145,6 +4377,8 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.166733233333332,
+      "longitude": -47.294808266666664,
       "imagens": [
         "attachments/117_117_foto_01-20260715-154634.jpg",
         "attachments/117_117_1017_foto_05-20260715-154907.jpg",
@@ -4181,6 +4415,8 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.1667403,
+      "longitude": -47.29486695000001,
       "imagens": [
         "attachments/118_118_foto_01-20260715-155138.jpg",
         "attachments/118_118_1018_foto_02-20260715-155206.jpg",
@@ -4212,6 +4448,8 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.166793283333334,
+      "longitude": -47.295035616666674,
       "imagens": [
         "attachments/119_119_foto_01-20260715-155624.jpg",
         "attachments/119_119_1026_foto_05-20260715-160045.jpg",
@@ -4244,6 +4482,8 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.166836033333333,
+      "longitude": -47.29499711666667,
       "imagens": [
         "attachments/120_120_foto_01-20260715-160220.jpg",
         "attachments/120_120_1034_foto_05-20260715-160734.jpg",
@@ -4279,6 +4519,8 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.166841933333334,
+      "longitude": -47.29531255,
       "imagens": [
         "attachments/121_121_foto_01-20260715-161035.jpg",
         "attachments/121_121_1038_foto_05-20260715-161207.jpg",
@@ -4310,6 +4552,8 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.16689823333333,
+      "longitude": -47.295461949999996,
       "imagens": [
         "attachments/122_122_foto_01-20260715-161404.jpg",
         "attachments/122_122_1043_foto_05-20260715-161821.jpg",
@@ -4342,15 +4586,17 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.166913516666668,
+      "longitude": -47.295532550000004,
       "imagens": [
         "attachments/123_123_foto_01-20260715-161930.jpg",
         "attachments/123_123_1050_foto_05-20260715-162310.jpg",
+        "attachments/123_123_1049_foto_04-20260715-162203.jpg",
         "attachments/123_123_1048_foto_04-20260715-162154.jpg",
         "attachments/123_123_1047_foto_03-20260715-162058.jpg",
         "attachments/123_123_1046_foto_02-20260715-162001.jpg",
         "attachments/123_123_1045_foto_02-20260715-161954.jpg",
-        "attachments/123_123_1044_foto_02-20260715-161946.jpg",
-        "attachments/123_123_1049_foto_04-20260715-162203.jpg"
+        "attachments/123_123_1044_foto_02-20260715-161946.jpg"
       ],
       "detalhes": [
         {
@@ -4376,6 +4622,8 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.16699045,
+      "longitude": -47.295741433333326,
       "imagens": [
         "attachments/124_124_foto_01-20260715-162613.jpg",
         "attachments/124_124_1056_foto_05-20260715-162841.jpg",
@@ -4409,6 +4657,8 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.166618449999998,
+      "longitude": -47.29605553333334,
       "imagens": [
         "attachments/125_125_foto_01-20260715-164805.jpg",
         "attachments/125_125_1067_foto_05-20260715-165246.jpg",
@@ -4447,6 +4697,8 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.16619843333333,
+      "longitude": -47.29618816666666,
       "imagens": [
         "attachments/126_126_foto_01-20260715-165534.jpg",
         "attachments/126_126_1072_foto_05-20260715-165832.jpg",
@@ -4479,15 +4731,17 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.165936050000003,
+      "longitude": -47.296191900000004,
       "imagens": [
         "attachments/127_127_foto_01-20260715-170216.jpg",
         "attachments/127_127_1079_foto_05-20260715-170453.jpg",
-        "attachments/127_127_1078_foto_04-20260715-170407.jpg",
         "attachments/127_127_1077_foto_04-20260715-170357.jpg",
         "attachments/127_127_1076_foto_03-20260715-170332.jpg",
         "attachments/127_127_1075_foto_02-20260715-170303.jpg",
         "attachments/127_127_1074_foto_02-20260715-170255.jpg",
-        "attachments/127_127_1073_foto_02-20260715-170246.jpg"
+        "attachments/127_127_1073_foto_02-20260715-170246.jpg",
+        "attachments/127_127_1078_foto_04-20260715-170407.jpg"
       ],
       "detalhes": [
         {
@@ -4513,15 +4767,17 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.16583685,
+      "longitude": -47.29617846666667,
       "imagens": [
         "attachments/128_128_foto_01-20260715-170621.jpg",
-        "attachments/128_128_1080_foto_02-20260715-170645.jpg",
-        "attachments/128_128_1081_foto_03-20260715-170700.jpg",
-        "attachments/128_128_1082_foto_03-20260715-170711.jpg",
-        "attachments/128_128_1083_foto_04-20260715-170735.jpg",
-        "attachments/128_128_1084_foto_04-20260715-170750.jpg",
+        "attachments/128_128_1086_foto_05-20260715-170839.jpg",
         "attachments/128_128_1085_foto_05-20260715-170833.jpg",
-        "attachments/128_128_1086_foto_05-20260715-170839.jpg"
+        "attachments/128_128_1084_foto_04-20260715-170750.jpg",
+        "attachments/128_128_1083_foto_04-20260715-170735.jpg",
+        "attachments/128_128_1082_foto_03-20260715-170711.jpg",
+        "attachments/128_128_1081_foto_03-20260715-170700.jpg",
+        "attachments/128_128_1080_foto_02-20260715-170645.jpg"
       ],
       "detalhes": [
         {
@@ -4547,6 +4803,8 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.166328716666666,
+      "longitude": -47.29593166666667,
       "imagens": [
         "attachments/129_129_foto_01-20260715-171300.jpg",
         "attachments/129_129_1092_foto_05-20260715-171617.jpg",
@@ -4580,13 +4838,15 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.166354899999998,
+      "longitude": -47.295738766666666,
       "imagens": [
         "attachments/130_130_foto_01-20260715-171759.jpg",
-        "attachments/130_130_1093_foto_02-20260715-171831.jpg",
-        "attachments/130_130_1094_foto_03-20260715-171908.jpg",
-        "attachments/130_130_1095_foto_03-20260715-172003.jpg",
+        "attachments/130_130_1097_foto_05-20260715-172128.jpg",
         "attachments/130_130_1096_foto_04-20260715-172030.jpg",
-        "attachments/130_130_1097_foto_05-20260715-172128.jpg"
+        "attachments/130_130_1095_foto_03-20260715-172003.jpg",
+        "attachments/130_130_1094_foto_03-20260715-171908.jpg",
+        "attachments/130_130_1093_foto_02-20260715-171831.jpg"
       ],
       "detalhes": [
         {
@@ -4612,13 +4872,15 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.166363550000003,
+      "longitude": -47.295688133333336,
       "imagens": [
         "attachments/131_131_foto_01-20260715-172610.jpg",
-        "attachments/131_131_1098_foto_02-20260715-172905.jpg",
-        "attachments/131_131_1099_foto_03-20260715-172746.jpg",
-        "attachments/131_131_1100_foto_03-20260715-172753.jpg",
+        "attachments/131_131_1102_foto_05-20260715-172719.jpg",
         "attachments/131_131_1101_foto_04-20260715-172810.jpg",
-        "attachments/131_131_1102_foto_05-20260715-172719.jpg"
+        "attachments/131_131_1100_foto_03-20260715-172753.jpg",
+        "attachments/131_131_1099_foto_03-20260715-172746.jpg",
+        "attachments/131_131_1098_foto_02-20260715-172905.jpg"
       ],
       "detalhes": [
         {
@@ -4644,6 +4906,8 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.166361166666665,
+      "longitude": -47.2956194,
       "imagens": [
         "attachments/132_132_foto_01-20260715-173116.jpg",
         "attachments/132_132_1109_foto_05-20260715-173310.jpg",
@@ -4678,14 +4942,16 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.16640226666667,
+      "longitude": -47.2954762,
       "imagens": [
         "attachments/133_133_foto_01-20260715-173905.jpg",
         "attachments/133_133_1115_foto_05-20260715-173805.jpg",
-        "attachments/133_133_1114_foto_04-20260715-173721.jpg",
         "attachments/133_133_1113_foto_03-20260715-173643.jpg",
         "attachments/133_133_1112_foto_03-20260715-173636.jpg",
         "attachments/133_133_1111_foto_02-20260715-173615.jpg",
-        "attachments/133_133_1110_foto_02-20260715-173609.jpg"
+        "attachments/133_133_1110_foto_02-20260715-173609.jpg",
+        "attachments/133_133_1114_foto_04-20260715-173721.jpg"
       ],
       "detalhes": [
         {
@@ -4711,6 +4977,8 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.16641451666667,
+      "longitude": -47.295369650000005,
       "imagens": [
         "attachments/134_134_foto_01-20260715-174044.jpg",
         "attachments/134_134_1122_foto_05-20260715-174343.jpg",
@@ -4745,13 +5013,15 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.166423716666667,
+      "longitude": -47.29529900000001,
       "imagens": [
         "attachments/135_135_foto_01-20260715-174550.jpg",
         "attachments/135_135_1127_foto_05-20260715-174748.jpg",
+        "attachments/135_135_1126_foto_04-20260715-174710.jpg",
         "attachments/135_135_1125_foto_03-20260715-174646.jpg",
         "attachments/135_135_1124_foto_03-20260715-174637.jpg",
-        "attachments/135_135_1123_foto_02-20260715-174618.jpg",
-        "attachments/135_135_1126_foto_04-20260715-174710.jpg"
+        "attachments/135_135_1123_foto_02-20260715-174618.jpg"
       ],
       "detalhes": [
         {
@@ -4777,6 +5047,8 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.166427333333335,
+      "longitude": -47.29525468333333,
       "imagens": [
         "attachments/136_136_foto_01-20260715-174904.jpg",
         "attachments/136_136_1133_foto_05-20260715-175042.jpg",
@@ -4810,6 +5082,8 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.166442033333333,
+      "longitude": -47.29519103333334,
       "imagens": [
         "attachments/137_137_foto_01-20260715-175219.jpg",
         "attachments/137_137_1139_foto_05-20260715-175530.jpg",
@@ -4843,6 +5117,8 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.1664221,
+      "longitude": -47.295196616666665,
       "imagens": [
         "attachments/138_138_foto_01-20260715-175717.jpg",
         "attachments/138_138_1143_foto_05-20260715-175854.jpg",
@@ -4874,6 +5150,8 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.16734435,
+      "longitude": -47.29582796666667,
       "imagens": [
         "attachments/139_139_foto_01-20260715-105912.jpg",
         "attachments/139_139_1148_foto_05-20260715-110252.jpg",
@@ -4906,6 +5184,8 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.167516616666667,
+      "longitude": -47.29590113333334,
       "imagens": [
         "attachments/140_140_foto_01-20260715-110546.jpg",
         "attachments/140_140_1152_foto_05-20260715-110811.jpg",
@@ -4937,10 +5217,11 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.16784458333333,
+      "longitude": -47.29608618333334,
       "imagens": [
         "attachments/141_141_foto_01-20260715-111252.jpg",
         "attachments/141_141_1166_foto_05-20260715-115734.jpg",
-        "attachments/141_141_1165_foto_05-20260715-111742.jpg",
         "attachments/141_141_1164_foto_05-20260715-111732.jpg",
         "attachments/141_141_1163_foto_04-20260715-111655.jpg",
         "attachments/141_141_1162_foto_04-20260715-111646.jpg",
@@ -4952,7 +5233,8 @@
         "attachments/141_141_1156_foto_03-20260715-111444.jpg",
         "attachments/141_141_1155_foto_02-20260715-111353.jpg",
         "attachments/141_141_1154_foto_02-20260715-111345.jpg",
-        "attachments/141_141_1153_foto_02-20260715-111333.jpg"
+        "attachments/141_141_1153_foto_02-20260715-111333.jpg",
+        "attachments/141_141_1165_foto_05-20260715-111742.jpg"
       ],
       "detalhes": [
         {
@@ -4978,6 +5260,8 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.168122733333334,
+      "longitude": -47.296219916666665,
       "imagens": [
         "attachments/142_142_foto_01-20260715-112049.jpg",
         "attachments/142_142_1178_foto_05-20260715-115640.jpg",
@@ -5017,6 +5301,8 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.1680275,
+      "longitude": -47.295441600000004,
       "imagens": [
         "attachments/143_143_foto_01-20260715-120753.jpg",
         "attachments/143_143_1186_foto_05-20260715-121219.jpg",
@@ -5052,6 +5338,8 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.167842066666665,
+      "longitude": -47.29546236666667,
       "imagens": [
         "attachments/144_144_foto_01-20260715-121438.jpg",
         "attachments/144_144_1190_foto_05-20260715-121653.jpg",
@@ -5083,6 +5371,8 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.16781275,
+      "longitude": -47.29561301666666,
       "imagens": [
         "attachments/145_145_foto_01-20260715-121919.jpg",
         "attachments/145_145_1194_foto_05-20260715-122411.jpg",
@@ -5113,6 +5403,8 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.167650783333332,
+      "longitude": -47.29553893333333,
       "imagens": [
         "attachments/146_146_foto_01-20260715-122713.jpg",
         "attachments/146_146_1198_foto_05-20260715-123007.jpg",
@@ -5144,6 +5436,8 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.167568566666667,
+      "longitude": -47.29554256666667,
       "imagens": [
         "attachments/147_147_foto_01-20260715-123213.jpg",
         "attachments/147_147_1202_foto_05-20260715-123425.jpg",
@@ -5175,14 +5469,16 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.167383883333333,
+      "longitude": -47.29560536666666,
       "imagens": [
         "attachments/148_148_foto_01-20260715-123648.jpg",
         "attachments/148_148_1208_foto_05-20260715-123907.jpg",
-        "attachments/148_148_1207_foto_04-20260715-123933.jpg",
         "attachments/148_148_1206_foto_03-20260715-123756.jpg",
         "attachments/148_148_1205_foto_02-20260715-123713.jpg",
         "attachments/148_148_1204_foto_02-20260715-123707.jpg",
-        "attachments/148_148_1203_foto_02-20260715-123701.jpg"
+        "attachments/148_148_1203_foto_02-20260715-123701.jpg",
+        "attachments/148_148_1207_foto_04-20260715-123933.jpg"
       ],
       "detalhes": [
         {
@@ -5208,15 +5504,17 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.168018933333332,
+      "longitude": -47.29530973333333,
       "imagens": [
         "attachments/149_149_foto_01-20260715-125503.jpg",
-        "attachments/149_149_1209_foto_02-20260715-125628.jpg",
-        "attachments/149_149_1210_foto_02-20260715-125651.jpg",
-        "attachments/149_149_1211_foto_02-20260715-125700.jpg",
-        "attachments/149_149_1212_foto_03-20260715-125827.jpg",
-        "attachments/149_149_1213_foto_03-20260715-125845.jpg",
+        "attachments/149_149_1215_foto_05-20260715-125952.jpg",
         "attachments/149_149_1214_foto_04-20260715-125921.jpg",
-        "attachments/149_149_1215_foto_05-20260715-125952.jpg"
+        "attachments/149_149_1213_foto_03-20260715-125845.jpg",
+        "attachments/149_149_1212_foto_03-20260715-125827.jpg",
+        "attachments/149_149_1211_foto_02-20260715-125700.jpg",
+        "attachments/149_149_1210_foto_02-20260715-125651.jpg",
+        "attachments/149_149_1209_foto_02-20260715-125628.jpg"
       ],
       "detalhes": [
         {
@@ -5242,15 +5540,17 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.167847483333333,
+      "longitude": -47.29471501666667,
       "imagens": [
         "attachments/150_150_foto_01-20260715-130215.jpg",
-        "attachments/150_150_1216_foto_02-20260715-130246.jpg",
-        "attachments/150_150_1217_foto_02-20260715-130339.jpg",
-        "attachments/150_150_1218_foto_03-20260715-130423.jpg",
-        "attachments/150_150_1219_foto_03-20260715-130432.jpg",
+        "attachments/150_150_1222_foto_05-20260715-130929.jpg",
         "attachments/150_150_1220_foto_04-20260715-130458.jpg",
-        "attachments/150_150_1221_foto_04-20260715-130504.jpg",
-        "attachments/150_150_1222_foto_05-20260715-130929.jpg"
+        "attachments/150_150_1219_foto_03-20260715-130432.jpg",
+        "attachments/150_150_1218_foto_03-20260715-130423.jpg",
+        "attachments/150_150_1217_foto_02-20260715-130339.jpg",
+        "attachments/150_150_1216_foto_02-20260715-130246.jpg",
+        "attachments/150_150_1221_foto_04-20260715-130504.jpg"
       ],
       "detalhes": [
         {
@@ -5276,15 +5576,17 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.167768916666667,
+      "longitude": -47.29442791666667,
       "imagens": [
         "attachments/151_151_foto_01-20260715-131209.jpg",
-        "attachments/151_151_1223_foto_02-20260715-131228.jpg",
-        "attachments/151_151_1224_foto_02-20260715-131233.jpg",
-        "attachments/151_151_1225_foto_03-20260715-131254.jpg",
-        "attachments/151_151_1226_foto_03-20260715-131317.jpg",
-        "attachments/151_151_1227_foto_04-20260715-131435.jpg",
+        "attachments/151_151_1229_foto_05-20260715-131531.jpg",
         "attachments/151_151_1228_foto_04-20260715-131441.jpg",
-        "attachments/151_151_1229_foto_05-20260715-131531.jpg"
+        "attachments/151_151_1227_foto_04-20260715-131435.jpg",
+        "attachments/151_151_1226_foto_03-20260715-131317.jpg",
+        "attachments/151_151_1225_foto_03-20260715-131254.jpg",
+        "attachments/151_151_1224_foto_02-20260715-131233.jpg",
+        "attachments/151_151_1223_foto_02-20260715-131228.jpg"
       ],
       "detalhes": [
         {
@@ -5310,13 +5612,15 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.167638716666666,
+      "longitude": -47.294175466666665,
       "imagens": [
         "attachments/152_152_foto_01-20260715-131804.jpg",
-        "attachments/152_152_1230_foto_02-20260715-131819.jpg",
-        "attachments/152_152_1231_foto_02-20260715-131830.jpg",
-        "attachments/152_152_1232_foto_03-20260715-131856.jpg",
+        "attachments/152_152_1234_foto_05-20260715-131948.jpg",
         "attachments/152_152_1233_foto_04-20260715-131926.jpg",
-        "attachments/152_152_1234_foto_05-20260715-131948.jpg"
+        "attachments/152_152_1232_foto_03-20260715-131856.jpg",
+        "attachments/152_152_1231_foto_02-20260715-131830.jpg",
+        "attachments/152_152_1230_foto_02-20260715-131819.jpg"
       ],
       "detalhes": [
         {
@@ -5342,6 +5646,8 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.167597633333333,
+      "longitude": -47.29401521666667,
       "imagens": [
         "attachments/153_153_foto_01-20260715-132515.jpg",
         "attachments/153_153_1238_foto_05-20260715-132904.jpg",
@@ -5373,12 +5679,14 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.167420049999997,
+      "longitude": -47.293591633333335,
       "imagens": [
         "attachments/154_154_foto_01-20260715-133119.jpg",
-        "attachments/154_154_1239_foto_02-20260715-133146.jpg",
+        "attachments/154_154_1242_foto_05-20260715-133304.jpg",
         "attachments/154_154_1240_foto_03-20260715-133210.jpg",
-        "attachments/154_154_1241_foto_04-20260715-133236.jpg",
-        "attachments/154_154_1242_foto_05-20260715-133304.jpg"
+        "attachments/154_154_1239_foto_02-20260715-133146.jpg",
+        "attachments/154_154_1241_foto_04-20260715-133236.jpg"
       ],
       "detalhes": [
         {
@@ -5404,17 +5712,19 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.167268149999998,
+      "longitude": -47.29341826666667,
       "imagens": [
         "attachments/155_155_foto_01-20260715-133534.jpg",
-        "attachments/155_155_1243_foto_02-20260715-133558.jpg",
-        "attachments/155_155_1244_foto_02-20260715-133606.jpg",
-        "attachments/155_155_1245_foto_03-20260715-133640.jpg",
-        "attachments/155_155_1246_foto_03-20260715-133656.jpg",
-        "attachments/155_155_1247_foto_04-20260715-133721.jpg",
-        "attachments/155_155_1248_foto_04-20260715-133729.jpg",
-        "attachments/155_155_1249_foto_04-20260715-133738.jpg",
+        "attachments/155_155_1251_foto_05-20260715-133829.jpg",
         "attachments/155_155_1250_foto_05-20260715-133818.jpg",
-        "attachments/155_155_1251_foto_05-20260715-133829.jpg"
+        "attachments/155_155_1249_foto_04-20260715-133738.jpg",
+        "attachments/155_155_1248_foto_04-20260715-133729.jpg",
+        "attachments/155_155_1247_foto_04-20260715-133721.jpg",
+        "attachments/155_155_1246_foto_03-20260715-133656.jpg",
+        "attachments/155_155_1245_foto_03-20260715-133640.jpg",
+        "attachments/155_155_1244_foto_02-20260715-133606.jpg",
+        "attachments/155_155_1243_foto_02-20260715-133558.jpg"
       ],
       "detalhes": [
         {
@@ -5440,15 +5750,17 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.1671399,
+      "longitude": -47.293654583333335,
       "imagens": [
         "attachments/156_156_foto_01-20260715-134109.jpg",
-        "attachments/156_156_1252_foto_02-20260715-134129.jpg",
-        "attachments/156_156_1253_foto_02-20260715-134135.jpg",
-        "attachments/156_156_1254_foto_03-20260715-134222.jpg",
-        "attachments/156_156_1255_foto_03-20260715-134234.jpg",
-        "attachments/156_156_1256_foto_04-20260715-134314.jpg",
+        "attachments/156_156_1258_foto_05-20260715-134345.jpg",
         "attachments/156_156_1257_foto_04-20260715-134320.jpg",
-        "attachments/156_156_1258_foto_05-20260715-134345.jpg"
+        "attachments/156_156_1256_foto_04-20260715-134314.jpg",
+        "attachments/156_156_1255_foto_03-20260715-134234.jpg",
+        "attachments/156_156_1254_foto_03-20260715-134222.jpg",
+        "attachments/156_156_1253_foto_02-20260715-134135.jpg",
+        "attachments/156_156_1252_foto_02-20260715-134129.jpg"
       ],
       "detalhes": [
         {
@@ -5474,6 +5786,8 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.166678366666666,
+      "longitude": -47.294569383333325,
       "imagens": [
         "attachments/157_157_foto_01-20260715-154720.jpg",
         "attachments/157_157_1263_foto_05-20260715-154956.jpg",
@@ -5506,13 +5820,15 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.166678366666666,
+      "longitude": -47.294569383333325,
       "imagens": [
         "attachments/158_158_foto_01-20260715-154720.jpg",
-        "attachments/158_158_1264_foto_02-20260715-154748.jpg",
-        "attachments/158_158_1265_foto_02-20260715-154759.jpg",
-        "attachments/158_158_1266_foto_03-20260715-154830.jpg",
+        "attachments/158_158_1268_foto_05-20260715-154956.jpg",
         "attachments/158_158_1267_foto_04-20260715-154918.jpg",
-        "attachments/158_158_1268_foto_05-20260715-154956.jpg"
+        "attachments/158_158_1266_foto_03-20260715-154830.jpg",
+        "attachments/158_158_1265_foto_02-20260715-154759.jpg",
+        "attachments/158_158_1264_foto_02-20260715-154748.jpg"
       ],
       "detalhes": [
         {
@@ -5538,6 +5854,8 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.166761766666664,
+      "longitude": -47.29491145,
       "imagens": [
         "attachments/159_159_foto_01-20260715-155224.jpg",
         "attachments/159_159_1275_foto_05-20260715-155512.jpg",
@@ -5572,12 +5890,14 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.16677286666667,
+      "longitude": -47.29501881666667,
       "imagens": [
         "attachments/160_160_foto_01-20260715-155927.jpg",
-        "attachments/160_160_1276_foto_02-20260715-155947.jpg",
-        "attachments/160_160_1277_foto_03-20260715-160015.jpg",
+        "attachments/160_160_1279_foto_05-20260715-160124.jpg",
         "attachments/160_160_1278_foto_04-20260715-160044.jpg",
-        "attachments/160_160_1279_foto_05-20260715-160124.jpg"
+        "attachments/160_160_1277_foto_03-20260715-160015.jpg",
+        "attachments/160_160_1276_foto_02-20260715-155947.jpg"
       ],
       "detalhes": [
         {
@@ -5603,6 +5923,8 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.16683935,
+      "longitude": -47.29518683333334,
       "imagens": [
         "attachments/161_161_foto_01-20260715-160515.jpg",
         "attachments/161_161_1285_foto_05-20260715-161032.jpg",
@@ -5636,14 +5958,16 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.166874399999998,
+      "longitude": -47.2954261,
       "imagens": [
         "attachments/162_162_foto_01-20260715-161313.jpg",
-        "attachments/162_162_1286_foto_02-20260715-161349.jpg",
-        "attachments/162_162_1287_foto_02-20260715-161402.jpg",
-        "attachments/162_162_1288_foto_03-20260715-161428.jpg",
+        "attachments/162_162_1291_foto_05-20260715-161600.jpg",
         "attachments/162_162_1289_foto_03-20260715-161443.jpg",
-        "attachments/162_162_1290_foto_04-20260715-161527.jpg",
-        "attachments/162_162_1291_foto_05-20260715-161600.jpg"
+        "attachments/162_162_1288_foto_03-20260715-161428.jpg",
+        "attachments/162_162_1287_foto_02-20260715-161402.jpg",
+        "attachments/162_162_1286_foto_02-20260715-161349.jpg",
+        "attachments/162_162_1290_foto_04-20260715-161527.jpg"
       ],
       "detalhes": [
         {
@@ -5669,12 +5993,14 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.166923083333334,
+      "longitude": -47.29561051666666,
       "imagens": [
         "attachments/163_163_foto_01-20260715-161940.jpg",
-        "attachments/163_163_1292_foto_02-20260715-162025.jpg",
-        "attachments/163_163_1293_foto_03-20260715-162049.jpg",
+        "attachments/163_163_1295_foto_05-20260715-162241.jpg",
         "attachments/163_163_1294_foto_04-20260715-162134.jpg",
-        "attachments/163_163_1295_foto_05-20260715-162241.jpg"
+        "attachments/163_163_1293_foto_03-20260715-162049.jpg",
+        "attachments/163_163_1292_foto_02-20260715-162025.jpg"
       ],
       "detalhes": [
         {
@@ -5700,14 +6026,16 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.166989933333333,
+      "longitude": -47.29567143333334,
       "imagens": [
         "attachments/164_164_foto_01-20260715-162421.jpg",
-        "attachments/164_164_1296_foto_02-20260715-162457.jpg",
-        "attachments/164_164_1297_foto_02-20260715-162505.jpg",
-        "attachments/164_164_1298_foto_03-20260715-162531.jpg",
-        "attachments/164_164_1299_foto_03-20260715-162551.jpg",
+        "attachments/164_164_1301_foto_05-20260715-162719.jpg",
         "attachments/164_164_1300_foto_04-20260715-162628.jpg",
-        "attachments/164_164_1301_foto_05-20260715-162719.jpg"
+        "attachments/164_164_1299_foto_03-20260715-162551.jpg",
+        "attachments/164_164_1298_foto_03-20260715-162531.jpg",
+        "attachments/164_164_1297_foto_02-20260715-162505.jpg",
+        "attachments/164_164_1296_foto_02-20260715-162457.jpg"
       ],
       "detalhes": [
         {
@@ -5733,14 +6061,16 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.167003533333332,
+      "longitude": -47.29587871666666,
       "imagens": [
         "attachments/165_165_foto_01-20260715-163338.jpg",
-        "attachments/165_165_1302_foto_02-20260715-163353.jpg",
-        "attachments/165_165_1303_foto_03-20260715-163404.jpg",
-        "attachments/165_165_1304_foto_03-20260715-163412.jpg",
+        "attachments/165_165_1307_foto_05-20260715-163506.jpg",
         "attachments/165_165_1305_foto_04-20260715-163435.jpg",
-        "attachments/165_165_1306_foto_04-20260715-163452.jpg",
-        "attachments/165_165_1307_foto_05-20260715-163506.jpg"
+        "attachments/165_165_1304_foto_03-20260715-163412.jpg",
+        "attachments/165_165_1303_foto_03-20260715-163404.jpg",
+        "attachments/165_165_1302_foto_02-20260715-163353.jpg",
+        "attachments/165_165_1306_foto_04-20260715-163452.jpg"
       ],
       "detalhes": [
         {
@@ -5765,6 +6095,8 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.166702016666665,
+      "longitude": -47.29605126666667,
       "imagens": [
         "attachments/166_166_foto_01-20260715-163859.jpg",
         "attachments/166_166_1311_foto_05-20260715-164114.jpg",
@@ -5796,13 +6128,15 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.166492766666668,
+      "longitude": -47.29612811666666,
       "imagens": [
         "attachments/167_167_foto_01-20260715-165034.jpg",
-        "attachments/167_167_1312_foto_02-20260715-165047.jpg",
-        "attachments/167_167_1313_foto_03-20260715-165055.jpg",
-        "attachments/167_167_1314_foto_03-20260715-165101.jpg",
+        "attachments/167_167_1316_foto_05-20260715-165129.jpg",
         "attachments/167_167_1315_foto_04-20260715-165117.jpg",
-        "attachments/167_167_1316_foto_05-20260715-165129.jpg"
+        "attachments/167_167_1314_foto_03-20260715-165101.jpg",
+        "attachments/167_167_1313_foto_03-20260715-165055.jpg",
+        "attachments/167_167_1312_foto_02-20260715-165047.jpg"
       ],
       "detalhes": [
         {
@@ -5828,14 +6162,16 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.166382283333334,
+      "longitude": -47.29613930000001,
       "imagens": [
         "attachments/168_168_foto_01-20260715-165308.jpg",
-        "attachments/168_168_1317_foto_02-20260715-165327.jpg",
-        "attachments/168_168_1318_foto_02-20260715-165337.jpg",
-        "attachments/168_168_1319_foto_03-20260715-165411.jpg",
-        "attachments/168_168_1320_foto_03-20260715-165437.jpg",
+        "attachments/168_168_1322_foto_05-20260715-165614.jpg",
         "attachments/168_168_1321_foto_04-20260715-165503.jpg",
-        "attachments/168_168_1322_foto_05-20260715-165614.jpg"
+        "attachments/168_168_1320_foto_03-20260715-165437.jpg",
+        "attachments/168_168_1319_foto_03-20260715-165411.jpg",
+        "attachments/168_168_1318_foto_02-20260715-165337.jpg",
+        "attachments/168_168_1317_foto_02-20260715-165327.jpg"
       ],
       "detalhes": [
         {
@@ -5861,14 +6197,16 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.166324416666665,
+      "longitude": -47.295956049999994,
       "imagens": [
         "attachments/169_169_foto_01-20260715-165942.jpg",
-        "attachments/169_169_1323_foto_02-20260715-165957.jpg",
-        "attachments/169_169_1324_foto_02-20260715-170006.jpg",
-        "attachments/169_169_1325_foto_03-20260715-170035.jpg",
-        "attachments/169_169_1326_foto_03-20260715-170102.jpg",
+        "attachments/169_169_1328_foto_05-20260715-170230.jpg",
         "attachments/169_169_1327_foto_04-20260715-170216.jpg",
-        "attachments/169_169_1328_foto_05-20260715-170230.jpg"
+        "attachments/169_169_1326_foto_03-20260715-170102.jpg",
+        "attachments/169_169_1325_foto_03-20260715-170035.jpg",
+        "attachments/169_169_1324_foto_02-20260715-170006.jpg",
+        "attachments/169_169_1323_foto_02-20260715-165957.jpg"
       ],
       "detalhes": [
         {
@@ -5894,6 +6232,8 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.166298016666666,
+      "longitude": -47.29600481666667,
       "imagens": [
         "attachments/170_170_foto_01-20260715-170410.jpg",
         "attachments/170_170_1335_foto_05-20260715-170750.jpg",
@@ -5928,6 +6268,8 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.166318283333332,
+      "longitude": -47.29589835,
       "imagens": [
         "attachments/171_171_foto_01-20260715-170950.jpg",
         "attachments/171_171_1340_foto_05-20260715-171323.jpg",
@@ -5960,13 +6302,15 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.166295166666664,
+      "longitude": -47.295829133333335,
       "imagens": [
         "attachments/172_172_foto_01-20260715-171618.jpg",
-        "attachments/172_172_1341_foto_02-20260715-171644.jpg",
         "attachments/172_172_1342_foto_02-20260715-171657.jpg",
-        "attachments/172_172_1343_foto_03-20260715-171733.jpg",
+        "attachments/172_172_1341_foto_02-20260715-171644.jpg",
+        "attachments/172_172_1345_foto_05-20260715-171848.jpg",
         "attachments/172_172_1344_foto_04-20260715-171813.jpg",
-        "attachments/172_172_1345_foto_05-20260715-171848.jpg"
+        "attachments/172_172_1343_foto_03-20260715-171733.jpg"
       ],
       "detalhes": [
         {
@@ -5992,6 +6336,8 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.166300349999997,
+      "longitude": -47.295803750000005,
       "imagens": [
         "attachments/173_173_foto_01-20260715-172527.jpg",
         "attachments/173_173_1352_foto_05-20260715-172710.jpg",
@@ -6026,6 +6372,8 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.166343016666666,
+      "longitude": -47.295742133333334,
       "imagens": [
         "attachments/174_174_foto_01-20260715-173011.jpg",
         "attachments/174_174_1357_foto_05-20260715-173138.jpg",
@@ -6058,13 +6406,15 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.166334866666666,
+      "longitude": -47.29567791666667,
       "imagens": [
         "attachments/175_175_foto_01-20260715-173401.jpg",
         "attachments/175_175_1362_foto_05-20260715-173452.jpg",
-        "attachments/175_175_1361_foto_04-20260715-173437.jpg",
         "attachments/175_175_1360_foto_03-20260715-173428.jpg",
         "attachments/175_175_1359_foto_03-20260715-173422.jpg",
-        "attachments/175_175_1358_foto_02-20260715-173411.jpg"
+        "attachments/175_175_1358_foto_02-20260715-173411.jpg",
+        "attachments/175_175_1361_foto_04-20260715-173437.jpg"
       ],
       "detalhes": [
         {
@@ -6090,6 +6440,8 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.166342433333334,
+      "longitude": -47.29563195000001,
       "imagens": [
         "attachments/176_176_foto_01-20260715-173648.jpg",
         "attachments/176_176_1366_foto_05-20260715-173741.jpg",
@@ -6121,14 +6473,16 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.166344233333334,
+      "longitude": -47.29555493333334,
       "imagens": [
         "attachments/177_177_foto_01-20260715-174041.jpg",
-        "attachments/177_177_1367_foto_02-20260715-174101.jpg",
-        "attachments/177_177_1368_foto_03-20260715-174132.jpg",
-        "attachments/177_177_1369_foto_03-20260715-174137.jpg",
-        "attachments/177_177_1370_foto_03-20260715-174147.jpg",
+        "attachments/177_177_1372_foto_05-20260715-174210.jpg",
         "attachments/177_177_1371_foto_04-20260715-174159.jpg",
-        "attachments/177_177_1372_foto_05-20260715-174210.jpg"
+        "attachments/177_177_1370_foto_03-20260715-174147.jpg",
+        "attachments/177_177_1369_foto_03-20260715-174137.jpg",
+        "attachments/177_177_1368_foto_03-20260715-174132.jpg",
+        "attachments/177_177_1367_foto_02-20260715-174101.jpg"
       ],
       "detalhes": [
         {
@@ -6154,6 +6508,8 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.166337633333335,
+      "longitude": -47.2954334,
       "imagens": [
         "attachments/178_178_foto_01-20260715-174629.jpg",
         "attachments/178_178_1378_foto_05-20260715-174744.jpg",
@@ -6187,6 +6543,8 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.16636138333333,
+      "longitude": -47.29536396666667,
       "imagens": [
         "attachments/179_179_foto_01-20260715-175101.jpg",
         "attachments/179_179_1384_foto_05-20260715-175234.jpg",
@@ -6220,6 +6578,8 @@
       "nucleo": "fra02",
       "tipo_imovel": "Imóvel",
       "data_inspecao": "Data não informada",
+      "latitude": -20.16641925,
+      "longitude": -47.295244149999995,
       "imagens": [
         "attachments/180_180_foto_01-20260715-175516.jpg",
         "attachments/180_180_1388_foto_05-20260715-175616.jpg",
