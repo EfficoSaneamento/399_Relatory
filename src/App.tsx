@@ -29,7 +29,7 @@ function App() {
       const response = await fetch(`${import.meta.env.BASE_URL}data/vistorias.json`)
       if (!response.ok) throw new Error('arquivo de dados ainda não publicado')
       const data: { registros: Array<{ id: number; endereco: string; numero_imovel?: string; cidade: string; nucleo: string; tipo_imovel: string; data_inspecao: string; imagens: string[]; detalhes?: Array<Record<string, unknown>> }> } = await response.json()
-      const mapped = data.registros.map((item) => ({ id: item.id, address: formatAddress(item.endereco, item.numero_imovel), city: item.cidade, nucleus: item.nucleo, propertyType: item.tipo_imovel, inspectedAt: item.data_inspecao, photos: item.imagens.map((image) => `${import.meta.env.BASE_URL}${image}`), details: item.detalhes ?? [] }))
+      const mapped = data.registros.map((item) => ({ id: item.id, address: formatAddress(item.endereco, item.numero_imovel), city: item.cidade.trim(), nucleus: item.nucleo.trim(), propertyType: item.tipo_imovel, inspectedAt: item.data_inspecao, photos: item.imagens.map((image) => `${import.meta.env.BASE_URL}${image}`), details: item.detalhes ?? [] }))
       setRecords(mapped); setSelected(mapped[0] ?? null); setMessage(`${mapped.length} vistorias atualizadas pelo GitHub Actions`)
       setActiveFilter((current) => current === 'Todos' || mapped.some((record) => record.city === current) ? current : 'Todos')
     } catch (error) { setMessage(`Não foi possível consultar a camada: ${error instanceof Error ? error.message : 'erro desconhecido'}`) } finally { setLoading(false) }
