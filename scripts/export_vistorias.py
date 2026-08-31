@@ -16,6 +16,7 @@ PASSWORD = os.environ.get("ARCGIS_PASSWORD")
 LAYER_INDEX = int(os.environ.get("ARCGIS_LAYER_INDEX", "0"))
 ROOT = Path(__file__).resolve().parents[1]
 DATA_PATH = ROOT / "public" / "data" / "vistorias.json"
+GEOJSON_PATH = ROOT / "public" / "data" / "vistorias.geojson"
 ATTACHMENTS_PATH = ROOT / "public" / "attachments"
 
 
@@ -70,11 +71,15 @@ def image_fields(attributes):
     return [value for name, value in attributes.items() if re.search(r"foto|imagem|image|anexo", name, re.IGNORECASE) and isinstance(value, str) and value.strip()]
 
 
+def coordinate(value):
+    return isinstance(value, (int, float)) and abs(value) <= 180
+
+
 def get_features(token, layer_url, fields):
     features = []
     offset = 0
     while True:
-        data = request_json(layer_url + "/query", token, where="1=1", outFields=",".join(fields), returnGeometry="false", resultRecordCount=1000, resultOffset=offset)
+        data = request_json(layer_url + "/query", token, where="1=1", outFields=",".join(fields), returnGeometry="true", outSR=4326, resultRecordCount=1000, resultOffset=offset)
         page = data.get("features", [])
         features.extend(page)
         if len(page) < 1000:
@@ -146,6 +151,12 @@ def main():
         images = list(dict.fromkeys(images))
         print(f"Registro {object_id}: {len(images)} anexo(s)")
 
+        geometry = feature.get("geometry") or {}
+        longitude = geometry.get("x")
+        latitude = geometry.get("y")
+        if not coordinate(longitude) or not coordinate(latitude):
+            longitude, latitude = None, None
+
         registros.append({
             "id": object_id,
             "endereco": find_value(attributes, ["endereco", "Endereco", "address"]) or "Endereço não informado",
@@ -154,6 +165,8 @@ def main():
             "nucleo": find_value(attributes, ["nucleo", "Núcleo", "nucleo_nome"]) or "Núcleo não informado",
             "tipo_imovel": find_value(attributes, ["tipo_imovel", "Tipo_de_imovel", "tipo de imóvel"]) or "Imóvel",
             "data_inspecao": format_date(find_value(attributes, ["data_inspecao", "Data_da_inspecao", "data da inspeção"])),
+            "latitude": latitude,
+            "longitude": longitude,
             "imagens": images,
             "detalhes": related_details,
         })
@@ -161,6 +174,29 @@ def main():
     DATA_PATH.parent.mkdir(parents=True, exist_ok=True)
     DATA_PATH.write_text(json.dumps({"gerado_em": datetime.now(timezone.utc).isoformat(), "registros": registros}, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"OK: {len(registros)} vistorias exportadas para {DATA_PATH}")
+
+    geojson = {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "geometry": {"type": "Point", "coordinates": [registro["longitude"], registro["latitude"]]},
+                "properties": {
+                    "id": registro["id"],
+                    "endereco": registro["endereco"],
+                    "numero_imovel": registro["numero_imovel"],
+                    "cidade": registro["cidade"],
+                    "nucleo": registro["nucleo"],
+                    "tipo_imovel": registro["tipo_imovel"],
+                    "data_inspecao": registro["data_inspecao"],
+                },
+            }
+            for registro in registros
+            if registro["latitude"] is not None and registro["longitude"] is not None
+        ],
+    }
+    GEOJSON_PATH.write_text(json.dumps(geojson, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"OK: {len(geojson['features'])} vistorias georreferenciadas exportadas para {GEOJSON_PATH}")
 
 
 if __name__ == "__main__":
