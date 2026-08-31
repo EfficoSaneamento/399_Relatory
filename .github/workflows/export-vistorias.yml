@@ -7,29 +7,21 @@ on:
   push:
     branches: [main]
     paths:
-      - "src/**"
       - "scripts/**"
-      - "public/**"
-      - "package.json"
-      - "package-lock.json"
       - "requirements.txt"
       - ".github/workflows/export-vistorias.yml"
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
+  actions: write
 
 concurrency:
-  group: "pages"
+  group: "export-vistorias"
   cancel-in-progress: false
 
 jobs:
-  export-e-publicar:
+  exportar:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Baixar código
         uses: actions/checkout@v4
@@ -45,21 +37,21 @@ jobs:
           ARCGIS_PASSWORD: ${{ secrets.ARCGIS_PASSWORD }}
           ARCGIS_SERVICE_URL: https://services6.arcgis.com/QJAp6nG4ishOkuMg/arcgis/rest/services/service_95186ff112e345eda73abaf81f8b18a7/FeatureServer
         run: python scripts/export_vistorias.py
-      - name: Configurar Node
-        uses: actions/setup-node@v4
-        with:
-          node-version: 22
-          cache: npm
-      - name: Instalar dependências Node
-        run: npm ci
-      - name: Compilar site
-        run: npm run build
-      - name: Configurar GitHub Pages
-        uses: actions/configure-pages@v5
-      - name: Enviar site
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: dist
-      - name: Publicar site
-        id: deployment
-        uses: actions/deploy-pages@v4
+      - name: Publicar dados atualizados
+        id: commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/data public/attachments
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "Atualizar vistorias exportadas"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Acionar publicação do site
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh workflow run deploy.yml --ref main
